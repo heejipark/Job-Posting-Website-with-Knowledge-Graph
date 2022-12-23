@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Find your job</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='company.ttl', _external=True) }}" rel="meta">
+</head>
+<body>
+<center>
+  <h1>
+    <span>G</span><span>o</span> <span>J</span><span>o</span><span>b</span><span>s</span>
+  </h1>
+  <form action="/posting" method='POST'>
+    <div class="mx-auto mt-5 search-bar input-group mb-3">
+      <input name="want-to-search" type="text" class="form-control rounded-pill" placeholder="Software Engineer, Python .." >
+      <div class="input-group-append">
+        <button class="form-control rounded-pill" type="submit"><i class="fa fa-search"></i></button>
+      </div>
+    </div>
+  </form>
+  <form action="/posting" method='POST'>
+    <div class="search_keyword">
+      <input name="search_type" class="keyword_button" type="submit" value="Software Developer">
+      <input name="search_type" class="keyword_button" type="submit" value="Data Scientist">
+      <input name="search_type" class="keyword_button" type="submit" value="Data Engineer">
+      <input name="search_type" class="keyword_button" type="submit" value="Computer Network Engineer"> <br>
+      <input name="search_skill" class="keyword_button" type="submit" value="C++">
+      <input name="search_skill" class="keyword_button" type="submit" value="Python">
+      <input name="search_skill" class="keyword_button" type="submit" value="Java">
+      <input name="search_skill" class="keyword_button" type="submit" value="SQL">
+      <input name="search_skill" class="keyword_button" type="submit" value="Cloud"> 
+      <input name="search_skill" class="keyword_button" type="submit" value="Pytorch"> 
+      <input name="search_skill" class="keyword_button" type="submit" value="Database"> <br>
+      <input name="search_company" class="keyword_button" type="submit" value="Amazon">  
+      <input name="search_company" class="keyword_button" type="submit" value="Walmart">  
+      <input name="search_company" class="keyword_button" type="submit" value="Apple">  
+      <input name="search_location" class="keyword_button" type="submit" value="New York">
+      <input name="search_location" class="keyword_button" type="submit" value="San Francisco">
+      <input name="search_location" class="keyword_button" type="submit" value="Seattle"> <br>
+      <br>
+    </div>
+  </form>
+<br>
+<b>{{data}}</b>
+<br><br>
+</center>
+</p>
+</body>
+</html>

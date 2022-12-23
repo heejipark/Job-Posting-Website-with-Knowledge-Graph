@@ -1,0 +1,454 @@
+,name,sim_company_1,sim_company_2,sim_company_3,sim_company_4
+0,3M,Autoliv,Advance Auto Parts,Applied Materials,Ally Financial
+1,A-Mark Precious Metals,Aflac,Ally Financial,Jefferies Financial Group,Ameren
+2,AECOM,Jacobs Engineering Group,Baker Hughes,Aramark,Beacon Roofing Supply
+3,AGCO,3M,Applied Materials,Amgen,Arrow Electronics
+4,AIG,Auto-Owners Insurance,American Family Insurance Group,Allstate,American Financial Group
+5,AT&T,Arrow Electronics,Apple,Bank of America,American Express
+6,AbbVie,Amgen,AmerisourceBergen,Baxter International,Aramark
+7,Academy Sports and Outdoors,Air Products & Chemicals,American Family Insurance Group,Ally Financial,Ameren
+8,Activision Blizzard,Aramark,Advance Auto Parts,Automatic Data Processing,AGCO
+9,Adobe,AmerisourceBergen,Automatic Data Processing,3M,Arthur J. Gallagher
+10,Advance Auto Parts,AutoNation,AutoZone,American Airlines Group,BJ's Wholesale Club
+11,Advanced Micro Devices,Air Products & Chemicals,Baker Hughes,Adobe,Avery Dennison
+12,Aflac,A-Mark Precious Metals,American Express,Alleghany,Ameriprise Financial
+13,Air Products & Chemicals,Baker Hughes,Applied Materials,American Airlines Group,Johnson & Johnson
+14,Albertsons,Aramark,AutoNation,Advance Auto Parts,Bed Bath & Beyond
+15,Alleghany,Aflac,American Financial Group,Avantor,A-Mark Precious Metals
+16,Allstate,AIG,Auto-Owners Insurance,Assurant,American Family Insurance Group
+17,Ally Financial,Bank of America,AutoNation,Bank of New York Mellon,Assurant
+18,Altice USA,Adobe,AT&T,Amazon,Bank of America
+19,AltriaGroup,Avery Dennison,Automatic Data Processing,Baker Hughes,American Express
+20,Amazon,AutoZone,Bed Bath & Beyond,Advance Auto Parts,AutoNation
+21,Ameren,Baker Hughes,Air Products & Chemicals,Apple,AECOM
+22,American Airlines Group,Advance Auto Parts,AutoNation,Ally Financial,Autoliv
+23,American Express,Bank of America,Ameriprise Financial,Ally Financial,Bank of New York Mellon
+24,American Family Insurance Group,AIG,American Financial Group,Auto-Owners Insurance,Allstate
+25,American Financial Group,Old Republic International,American Family Insurance Group,AIG,Auto-Owners Insurance
+26,American Tower,TravelCenters of America,Motorola Solutions,Academy Sports and Outdoors,Activision Blizzard
+27,Ameriprise Financial,American Express,Assurant,Bank of America,Bank of New York Mellon
+28,AmerisourceBergen,AbbVie,Amgen,Aramark,3M
+29,Amgen,AbbVie,AmerisourceBergen,Applied Materials,Baxter International
+30,Apollo Global Management,Arthur J. Gallagher,Ally Financial,Beacon Roofing Supply,Avis Budget Group
+31,Apple,Arrow Electronics,Jabil,AT&T,Avnet
+32,Applied Materials,Jabil,3M,Amgen,Air Products & Chemicals
+33,Aramark,Albertsons,Advance Auto Parts,AmerisourceBergen,AutoZone
+34,Archer Daniels Midland,Air Products & Chemicals,Baker Hughes,3M,Baxter International
+35,Arrow Electronics,AT&T,Avnet,Northrop Grumman,3M
+36,Arthur J. Gallagher,Assurant,Old Republic International,Auto-Owners Insurance,Ally Financial
+37,Asbury Automotive Group,Ally Financial,Auto-Owners Insurance,Allstate,Jones Financial (Edward Jones)
+38,Assurant,Ally Financial,Allstate,Arthur J. Gallagher,Bank of America
+39,Auto-Owners Insurance,AIG,Allstate,American Family Insurance Group,Asbury Automotive Group
+40,AutoNation,Advance Auto Parts,Autoliv,AutoZone,Ally Financial
+41,AutoZone,Advance Auto Parts,AutoNation,Autoliv,Amazon
+42,Autoliv,AutoNation,AutoZone,3M,Advance Auto Parts
+43,Automatic Data Processing,American Express,Adobe,Avnet,Arrow Electronics
+44,Avantor,Amgen,Applied Materials,3M,AGCO
+45,Avery Dennison,AltriaGroup,Arrow Electronics,Applied Materials,3M
+46,Avis Budget Group,American Airlines Group,Beacon Roofing Supply,NVR,Apollo Global Management
+47,Avnet,Arrow Electronics,Jabil,3M,Automatic Data Processing
+48,BJ's Wholesale Club,Bath & Body Works,Advance Auto Parts,AutoNation,Amazon
+49,Baker Hughes,NextEra Energy,Ameren,AECOM,Air Products & Chemicals
+50,Bank of America,Bank of New York Mellon,Ally Financial,Morgan Stanley,American Express
+51,Bank of New York Mellon,Bank of America,Ally Financial,Assurant,Ameriprise Financial
+52,Bath & Body Works,BJ's Wholesale Club,Bed Bath & Beyond,Advance Auto Parts,AutoNation
+53,Baxter International,Baxter International,Baxter International,AbbVie,Amgen
+54,Baxter International,Baxter International,Baxter International,AbbVie,Amgen
+55,Baxter International,Baxter International,Baxter International,AbbVie,Amgen
+56,Beacon Roofing Supply,Applied Materials,3M,Avis Budget Group,AGCO
+57,Bed Bath & Beyond,BJ's Wholesale Club,Advance Auto Parts,AutoZone,Bath & Body Works
+58,Berkshire Hathaway,3M,A-Mark Precious Metals,AECOM,AGCO
+59,Berry Global Group,Applied Materials,Avery Dennison,3M,Arrow Electronics
+60,Best Buy,BJ's Wholesale Club,Bed Bath & Beyond,Bath & Body Works,Advance Auto Parts
+61,Biogen,Avantor,Baxter International,Baxter International,Baxter International
+62,BlackRock,Bank of America,Bank of New York Mellon,American Express,Ally Financial
+63,Block,American Family Insurance Group,Adobe,Auto-Owners Insurance,Altice USA
+64,Boise Cascade,Beacon Roofing Supply,Avery Dennison,Academy Sports and Outdoors,Air Products & Chemicals
+65,Booking Holdings,American Airlines Group,Avis Budget Group,Bank of America,American Express
+66,Booz Allen Hamilton Holding,Arthur J. Gallagher,Automatic Data Processing,American Express,Adobe
+67,BorgWarner,3M,American Airlines Group,Applied Materials,Advance Auto Parts
+68,Boston Scientific,Johnson & Johnson,Baxter International,AbbVie,Air Products & Chemicals
+69,Brighthouse Financial,AIG,Auto-Owners Insurance,American Family Insurance Group,American Financial Group
+70,Bristol-Myers Squibb,AbbVie,AmerisourceBergen,Amgen,Baxter International
+71,Broadcom,AT&T,Applied Materials,Air Products & Chemicals,Arrow Electronics
+72,Builders FirstSource,3M,A-Mark Precious Metals,AECOM,AGCO
+73,Burlington Stores,BJ's Wholesale Club,Bed Bath & Beyond,Advance Auto Parts,AutoNation
+74,C.H. Robinson Worldwide,Arrow Electronics,American Airlines Group,Air Products & Chemicals,Avnet
+75,CBRE Group,3M,A-Mark Precious Metals,AECOM,AGCO
+76,CDW,Automatic Data Processing,Baker Hughes,AT&T,Avnet
+77,CMS Energy,Baker Hughes,Ameren,3M,AmerisourceBergen
+78,CMS Energy,Baker Hughes,Ameren,3M,AmerisourceBergen
+79,CSX,Air Products & Chemicals,American Airlines Group,3M,AECOM
+80,CVS Health,AmerisourceBergen,Johnson & Johnson,AbbVie,AutoZone
+81,Caesars Entertainment,Activision Blizzard,Archer Daniels Midland,Altice USA,Advance Auto Parts
+82,Campbell Soup,AGCO,Applied Materials,3M,Amgen
+83,Camping World Holdings,BJ's Wholesale Club,Bath & Body Works,Advance Auto Parts,Academy Sports and Outdoors
+84,Capital One Financial,Ally Financial,Bank of America,Allstate,Assurant
+85,CarMax,Advance Auto Parts,AutoNation,AutoZone,Ally Financial
+86,Cardinal Health,Johnson & Johnson,AmerisourceBergen,AbbVie,3M
+87,Carlyle Group,Jefferies Financial Group,Jefferies Financial Group,Arthur J. Gallagher,Apollo Global Management
+88,Carrier Global,Baker Hughes,Avnet,Jabil,AmerisourceBergen
+89,Casey's General Stores,Bed Bath & Beyond,BJ's Wholesale Club,Albertsons,AutoZone
+90,Caterpillar,AGCO,Jabil,3M,Applied Materials
+91,Celanese,Air Products & Chemicals,Applied Materials,Jabil,Amgen
+92,Centene,Aramark,AmerisourceBergen,Amgen,AbbVie
+93,CenterPoint Energy,Ameren,Baker Hughes,Academy Sports and Outdoors,Air Products & Chemicals
+94,Charles Schwab,Ally Financial,Bank of America,Allstate,Bank of New York Mellon
+95,Charter Communications,AT&T,Arrow Electronics,Activision Blizzard,American Express
+96,Charter Communications,AT&T,Arrow Electronics,Activision Blizzard,American Express
+97,Charter Communications,AT&T,Arrow Electronics,Activision Blizzard,American Express
+98,Cheniere Energy,Ameren,AltriaGroup,American Family Insurance Group,Archer Daniels Midland
+99,Chevron,Baker Hughes,Applied Materials,3M,AGCO
+100,Chewy,Avantor,BJ's Wholesale Club,Advance Auto Parts,AutoZone
+101,Chipotle Mexican Grill,Archer Daniels Midland,Aramark,Bed Bath & Beyond,BJ's Wholesale Club
+102,Cigna,Johnson & Johnson,AbbVie,AmerisourceBergen,3M
+103,Cincinnati Financial,Assurant,Auto-Owners Insurance,Ally Financial,Allstate
+104,Cintas,3M,Jabil,AGCO,Applied Materials
+105,Cisco Systems,Altice USA,Apple,Jabil,Arrow Electronics
+106,Citigroup,Jefferies Financial Group,Jefferies Financial Group,Ameriprise Financial,Bank of America
+107,Cleveland-Cliffs,Avantor,Alleghany,Autoliv,AutoZone
+108,Clorox,Baxter International,Baxter International,Avery Dennison,AltriaGroup
+109,Coca-Cola,3M,A-Mark Precious Metals,AECOM,AGCO
+110,Coinbase Global,3M,A-Mark Precious Metals,AECOM,AGCO
+111,Colgate-Palmolive,Bath & Body Works,Aramark,Amgen,AmerisourceBergen
+112,Comcast,3M,A-Mark Precious Metals,AECOM,AGCO
+113,CommScope Holding,3M,A-Mark Precious Metals,AECOM,AGCO
+114,Conagra Brands,Aramark,Archer Daniels Midland,Air Products & Chemicals,3M
+115,ConocoPhillips,Avantor,Baker Hughes,Ameren,Alleghany
+116,Consolidated Edison,Baker Hughes,Ameren,Air Products & Chemicals,AECOM
+117,Constellation Brands,AGCO,AltriaGroup,Applied Materials,Amgen
+118,Corning,3M,A-Mark Precious Metals,AECOM,AGCO
+119,Corteva,3M,A-Mark Precious Metals,AECOM,AGCO
+120,Costco Wholesale,BJ's Wholesale Club,Bed Bath & Beyond,Advance Auto Parts,Amazon
+121,CrownHoldings,AGCO,Applied Materials,Avery Dennison,3M
+122,CrownHoldings,AGCO,Applied Materials,Avery Dennison,3M
+123,Cummins,3M,AGCO,Autoliv,AutoNation
+124,D.R. Horton,Ally Financial,Allstate,Avis Budget Group,Bank of America
+125,DCP Midstream,Ameren,Baker Hughes,Air Products & Chemicals,AECOM
+126,DISH Network,AT&T,Arrow Electronics,Altice USA,Apple
+127,DTEEnergy,Public Service Enterprise Group,Baker Hughes,Ameren,Air Products & Chemicals
+128,DXC Technology,American Family Insurance Group,AIG,Auto-Owners Insurance,Ameriprise Financial
+129,DaVita,Air Products & Chemicals,Arthur J. Gallagher,Advance Auto Parts,Altice USA
+130,Danaher,AbbVie,Baxter International,Amgen,AmerisourceBergen
+131,Deere,Beacon Roofing Supply,AGCO,3M,Applied Materials
+132,Delek US Holdings,Baker Hughes,Ameren,Bank of America,AutoZone
+133,Dell Technologies,Baker Hughes,Assurant,AECOM,Adobe
+134,Dell Technologies,Baker Hughes,Assurant,AECOM,Adobe
+135,Dell Technologies,Baker Hughes,Assurant,AECOM,Adobe
+136,Delta Air Lines,American Airlines Group,Air Products & Chemicals,Avis Budget Group,Bank of America
+137,Devon Energy,Baker Hughes,Ameren,Air Products & Chemicals,AECOM
+138,Diamondback Energy,Apollo Global Management,American Financial Group,American Tower,Ameren
+139,Dick's Sporting Goods,AutoZone,Amazon,Bed Bath & Beyond,Academy Sports and Outdoors
+140,Dillard's,Bed Bath & Beyond,BJ's Wholesale Club,Advance Auto Parts,AutoZone
+141,Dollar General,BJ's Wholesale Club,Amazon,Bath & Body Works,AutoZone
+142,Dollar Tree,BJ's Wholesale Club,Albertsons,Advance Auto Parts,Amazon
+143,Dominion Energy,Baker Hughes,Automatic Data Processing,Air Products & Chemicals,Bank of America
+144,Dow,AGCO,3M,Applied Materials,Amgen
+145,DuPont,AGCO,3M,Autoliv,Arrow Electronics
+146,Duke Energy,Baker Hughes,Ameren,Jabil,AT&T
+147,EOG Resources,Bank of America,Automatic Data Processing,Ameren,AutoNation
+148,Eastman Chemical,Amgen,Applied Materials,AbbVie,3M
+149,Ecolab,Baker Hughes,AECOM,Assurant,Albertsons
+150,Edison International,Baker Hughes,Ameren,AECOM,Avnet
+151,Edison International,Baker Hughes,Ameren,AECOM,Avnet
+152,Edison International,Baker Hughes,Ameren,AECOM,Avnet
+153,Elevance Health,Johnson & Johnson,Bank of New York Mellon,Air Products & Chemicals,Amgen
+154,EliLilly,AbbVie,Amgen,AmerisourceBergen,Baxter International
+155,Emerson Electric,Applied Materials,Jabil,Avnet,Arrow Electronics
+156,EnLink Midstream,Baker Hughes,Ameren,Asbury Automotive Group,Air Products & Chemicals
+157,Equitable Holdings,American Financial Group,American Family Insurance Group,Arthur J. Gallagher,AIG
+158,Erie Insurance Group,AIG,American Financial Group,Allstate,American Family Insurance Group
+159,Estée Lauder,Newell Brands,3M,Jabil,AGCO
+160,Eversource Energy,3M,A-Mark Precious Metals,AECOM,AGCO
+161,Expeditors Intl. of Washington,American Airlines Group,Air Products & Chemicals,Assurant,American Family Insurance Group
+162,Exxon Mobil,Baker Hughes,Ameren,Air Products & Chemicals,AECOM
+163,FMGlobal,Arthur J. Gallagher,Assurant,Ally Financial,Ameriprise Financial
+164,Fannie Mae,Ally Financial,American Express,Ameriprise Financial,Bank of America
+165,Farmers Insurance Exchange,Auto-Owners Insurance,Arthur J. Gallagher,Assurant,Ally Financial
+166,FedEx,BJ's Wholesale Club,Bank of New York Mellon,Arrow Electronics,Albertsons
+167,Fidelity National Financial,American Financial Group,AIG,American Family Insurance Group,Allstate
+168,"Fidelity National Information
+Services",American Express,Assurant,Bank of America,Automatic Data Processing
+169,Fifth Third Bancorp,Ally Financial,Bank of America,Bank of New York Mellon,Allstate
+170,First American Financial,AIG,American Financial Group,American Family Insurance Group,Allstate
+171,Fiserv,Bank of America,AIG,American Express,AECOM
+172,Fluor,AECOM,Beacon Roofing Supply,Jacobs Engineering Group,Aramark
+173,Foot Locker,Bed Bath & Beyond,Advance Auto Parts,AutoNation,AutoZone
+174,Ford Motor,American Airlines Group,AutoNation,3M,Ally Financial
+175,Fortune Brands Home & Security,Assurant,Avery Dennison,Ally Financial,American Financial Group
+176,Fox,3M,A-Mark Precious Metals,AECOM,AGCO
+177,Franklin Resources,Northern Trust,Arthur J. Gallagher,Ameriprise Financial,Bank of America
+178,Freeport-McMoRan,Bank of America,Aramark,AmerisourceBergen,Advance Auto Parts
+179,Frontier Communications,AT&T,Arrow Electronics,Altice USA,Bank of America
+180,Frontier Communications,AT&T,Arrow Electronics,Altice USA,Bank of America
+181,GXO Logistics,Avnet,Albertsons,Arrow Electronics,Activision Blizzard
+182,GXO Logistics,3M,A-Mark Precious Metals,AECOM,AGCO
+183,Gap,Bed Bath & Beyond,BJ's Wholesale Club,Advance Auto Parts,AutoNation
+184,General Dynamics,Ally Financial,Arthur J. Gallagher,Baker Hughes,American Financial Group
+185,General Electric,NRG Energy,Jabil,Applied Materials,3M
+186,General Mills,3M,Applied Materials,AGCO,Amgen
+187,General Mills,3M,Applied Materials,AGCO,Amgen
+188,General Motors,AutoNation,3M,American Airlines Group,Ally Financial
+189,General Motors,AutoNation,3M,American Airlines Group,Ally Financial
+190,Genworth Financial,American Express,Ameriprise Financial,Bank of America,Ally Financial
+191,Gilead Sciences,Amgen,AbbVie,AmerisourceBergen,Johnson & Johnson
+192,Goldman Sachs Group,Allstate,Ally Financial,Bank of America,Bank of New York Mellon
+193,Graphic Packaging Holding,Avery Dennison,Autoliv,Air Products & Chemicals,Advanced Micro Devices
+194,Graybar Electric,Avnet,Arrow Electronics,Bank of New York Mellon,Albertsons
+195,Group 1 Automotive,AutoZone,Advance Auto Parts,AutoNation,O'Reilly Automotive
+196,HCAHealthcare,AbbVie,Baxter International,AmerisourceBergen,Amgen
+197,HP,3M,A-Mark Precious Metals,AECOM,AGCO
+198,Halliburton,Baker Hughes,Ameren,Air Products & Chemicals,AECOM
+199,Hanesbrands,AutoZone,Amazon,Advance Auto Parts,AutoNation
+200,Hartford Financial Services Group,AIG,Auto-Owners Insurance,Assurant,Allstate
+201,Hasbro,Activision Blizzard,AGCO,AutoNation,Allstate
+202,Henry Schein,Aramark,Amgen,AbbVie,AmerisourceBergen
+203,Hertz Global Holdings,American Airlines Group,AutoNation,Advance Auto Parts,Ally Financial
+204,Hess,Baker Hughes,Ameren,Air Products & Chemicals,Avery Dennison
+205,Hewlett Packard Enterpri,3M,A-Mark Precious Metals,AECOM,AGCO
+206,Home Depot,Bed Bath & Beyond,BJ's Wholesale Club,Advance Auto Parts,AutoZone
+207,Honeywell International,3M,Baker Hughes,AGCO,Applied Materials
+208,Honeywell International,3M,Baker Hughes,AGCO,Applied Materials
+209,Hormel Foods,Jabil,Applied Materials,Aramark,3M
+210,Humana,Allstate,Old Republic International,American Family Insurance Group,AIG
+211,Huntsman,AGCO,Beacon Roofing Supply,3M,AECOM
+212,IBM,Automatic Data Processing,Avnet,Arrow Electronics,Baker Hughes
+213,Icahn Enterprises,Ally Financial,3M,Beacon Roofing Supply,AutoNation
+214,Illinois Tool Works,Applied Materials,3M,Jabil,Amgen
+215,Ingredion,Archer Daniels Midland,Albertsons,Applied Materials,Advance Auto Parts
+216,Intel,Arrow Electronics,Baker Hughes,Automatic Data Processing,Assurant
+217,International Flavors & Fragrances,AltriaGroup,Avery Dennison,Bank of New York Mellon,Bath & Body Works
+218,International Paper,3M,Avery Dennison,Autoliv,AltriaGroup
+219,Interpublic Group,Altice USA,Adobe,AECOM,Ameriprise Financial
+220,Intuit,Bank of America,American Express,Ally Financial,Ameriprise Financial
+221,J.B. Hunt Transport Services,American Airlines Group,Air Products & Chemicals,AT&T,American Express
+222,J.M. Smucker,Avery Dennison,AltriaGroup,Autoliv,AutoZone
+223,JPMorgan Chase,Bank of America,Bank of New York Mellon,Ally Financial,Ameriprise Financial
+224,Jabil,Applied Materials,3M,AGCO,Avnet
+225,Jacobs Engineering Group,AECOM,Baker Hughes,Archer Daniels Midland,Avis Budget Group
+226,Jefferies Financial Group,Jefferies Financial Group,Northern Trust,Apollo Global Management,Ally Financial
+227,Jefferies Financial Group,Jefferies Financial Group,Northern Trust,Apollo Global Management,Ally Financial
+228,Johnson & Johnson,Amgen,AmerisourceBergen,Air Products & Chemicals,AbbVie
+229,Jones Financial (Edward Jones),Ally Financial,Bank of America,Bank of New York Mellon,Assurant
+230,Jones Lang LaSalle,3M,A-Mark Precious Metals,AECOM,AGCO
+231,KBR,AutoNation,Beacon Roofing Supply,Autoliv,AECOM
+232,KLA,Advance Auto Parts,Ally Financial,Assurant,Autoliv
+233,Kellogg,Albertsons,Archer Daniels Midland,AltriaGroup,Aramark
+234,Keurig Dr Pepper,Applied Materials,3M,Amgen,AGCO
+235,Kimberly-Clark,AbbVie,Aramark,Amgen,AmerisourceBergen
+236,Kinder Morgan,Baker Hughes,Ameren,Bank of America,Arrow Electronics
+237,Kohl's,Bath & Body Works,Bed Bath & Beyond,Advance Auto Parts,AutoNation
+238,Kraft Heinz,AltriaGroup,Bank of America,Assurant,Aramark
+239,Kroger,Bed Bath & Beyond,BJ's Wholesale Club,Albertsons,AutoZone
+240,L3Harris Technologies,AECOM,Aramark,Bank of America,AIG
+241,Laboratory Corp. of America,AbbVie,Baxter International,AmerisourceBergen,Amgen
+242,Lam Research,Applied Materials,AGCO,3M,Air Products & Chemicals
+243,Landstar System,Air Products & Chemicals,American Financial Group,Arthur J. Gallagher,Altice USA
+244,Leidos Holdings,AECOM,Assurant,Arrow Electronics,Avnet
+245,Leidos Holdings,AECOM,Assurant,Arrow Electronics,Avnet
+246,Lennar,3M,A-Mark Precious Metals,AECOM,AGCO
+247,Liberty Media,Amazon,AutoZone,Activision Blizzard,AT&T
+248,Lincoln National,Assurant,Ameriprise Financial,Ally Financial,Prudential Financial
+249,Lithia Motors,Advance Auto Parts,AutoNation,AutoZone,Ally Financial
+250,Lockheed Martin,3M,Arrow Electronics,American Express,Bank of America
+251,Loews,3M,A-Mark Precious Metals,AECOM,AGCO
+252,Lumen Technologies,AT&T,Arrow Electronics,AECOM,American Express
+253,Lumen Technologies,AT&T,Arrow Electronics,AECOM,American Express
+254,Lumen Technologies,AT&T,Arrow Electronics,AECOM,American Express
+255,Lumen Technologies,AT&T,Arrow Electronics,AECOM,American Express
+256,MGM Resorts International,Archer Daniels Midland,Aramark,Avery Dennison,Activision Blizzard
+257,Macy's,BJ's Wholesale Club,Bed Bath & Beyond,Advance Auto Parts,AutoZone
+258,Marathon Petroleum,Beacon Roofing Supply,American Family Insurance Group,AmerisourceBergen,AutoZone
+259,Markel,Auto-Owners Insurance,Assurant,Ameriprise Financial,AIG
+260,Marriott International,Archer Daniels Midland,American Airlines Group,AbbVie,AIG
+261,Marriott International,Archer Daniels Midland,American Airlines Group,AbbVie,AIG
+262,Marsh & McLennan,American Financial Group,Old Republic International,Arthur J. Gallagher,American Family Insurance Group
+263,MasTec,Ameren,AECOM,Baker Hughes,Air Products & Chemicals
+264,Masco,Beacon Roofing Supply,Jabil,Applied Materials,3M
+265,Massachusetts Mutual Life,New York Life Insurance,Prudential Financial,Prudential Financial,AIG
+266,Mastercard,Assurant,American Express,Ally Financial,Bank of America
+267,McDonald's,Archer Daniels Midland,Aramark,Bank of America,Allstate
+268,McKesson,Amgen,AbbVie,AmerisourceBergen,Baxter International
+269,Merck,AbbVie,Amgen,AmerisourceBergen,Baxter International
+270,MetLife,AIG,Auto-Owners Insurance,JPMorgan Chase,Bank of America
+271,Meta Platforms,Bank of America,AT&T,Auto-Owners Insurance,Albertsons
+272,Micron Technology,Applied Materials,Jabil,Arrow Electronics,3M
+273,Microsoft,Apple,Arrow Electronics,3M,Automatic Data Processing
+274,Moderna,AbbVie,Amgen,AmerisourceBergen,Baxter International
+275,Mohawk Industries,Beacon Roofing Supply,American Family Insurance Group,Avis Budget Group,Air Products & Chemicals
+276,Mohawk Industries,Beacon Roofing Supply,AGCO,3M,Applied Materials
+277,Molina Healthcare,Johnson & Johnson,AmerisourceBergen,AbbVie,Air Products & Chemicals
+278,Molson Coors Beverage,Avantor,Albertsons,Avnet,Arthur J. Gallagher
+279,Mondelez International,3M,AGCO,Amgen,Applied Materials
+280,Mondelez International,3M,AGCO,Amgen,Applied Materials
+281,Mondelez International,3M,AGCO,Amgen,Applied Materials
+282,Morgan Stanley,Bank of New York Mellon,Bank of America,JPMorgan Chase,Ally Financial
+283,Motorola Solutions,AT&T,Arrow Electronics,Altice USA,Baker Hughes
+284,Murphy USA,Advance Auto Parts,AutoZone,Bath & Body Works,Aramark
+285,Mutual of Omaha Insurance,AIG,Auto-Owners Insurance,Ameriprise Financial,Assurant
+286,NCR,American Express,Automatic Data Processing,Arrow Electronics,Bank of America
+287,NRG Energy,Baker Hughes,Applied Materials,Ameren,AECOM
+288,NRG Energy,Baker Hughes,Applied Materials,Ameren,AECOM
+289,NVR,Beacon Roofing Supply,Arthur J. Gallagher,Ameriprise Financial,Apollo Global Management
+290,Netflix,Activision Blizzard,Amazon,Apple,AT&T
+291,New York Life Insurance,Ameriprise Financial,AIG,American Express,Assurant
+292,Newell Brands,Jabil,AGCO,3M,Applied Materials
+293,Newmont,3M,AECOM,AGCO,AIG
+294,News Corp.,Adobe,Altice USA,American Express,Apple
+295,NextEra Energy,Baker Hughes,Ameren,Air Products & Chemicals,AECOM
+296,Nike,Bed Bath & Beyond,BJ's Wholesale Club,AutoZone,AGCO
+297,Nordstrom,AutoZone,Amazon,Bed Bath & Beyond,Advance Auto Parts
+298,Norfolk Southern,American Airlines Group,Air Products & Chemicals,AutoZone,3M
+299,Northern Trust,Ameriprise Financial,Bank of America,Bank of New York Mellon,Arthur J. Gallagher
+300,Northrop Grumman,Arrow Electronics,3M,Applied Materials,Automatic Data Processing
+301,Northwestern Mutual,AIG,Assurant,Ameriprise Financial,Auto-Owners Insurance
+302,Nvidia,Advanced Micro Devices,Arrow Electronics,Avnet,Apple
+303,O'Reilly Automotive,Advance Auto Parts,AutoNation,3M,AutoZone
+304,ODP,Fluor,Veritiv,3M,AECOM
+305,ON Semiconductor,Air Products & Chemicals,Applied Materials,Arrow Electronics,3M
+306,Occidental Petroleum,Baker Hughes,Ameren,Aramark,Air Products & Chemicals
+307,Old Republic International,American Family Insurance Group,American Financial Group,AIG,Auto-Owners Insurance
+308,Omnicom Group,Northwestern Mutual,Jones Financial (Edward Jones),AECOM,Adobe
+309,Oneok,Ameren,Baker Hughes,Air Products & Chemicals,AECOM
+310,Opendoor Technologies,Apollo Global Management,Beacon Roofing Supply,American Financial Group,Jefferies Financial Group
+311,Oracle,Arrow Electronics,Automatic Data Processing,Adobe,Bank of New York Mellon
+312,Oshkosh,3M,A-Mark Precious Metals,AECOM,AGCO
+313,Otis Worldwide,Beacon Roofing Supply,Air Products & Chemicals,AGCO,3M
+314,Ovintiv,Ameren,Baker Hughes,3M,AECOM
+315,Owens & Minor,Johnson & Johnson,Avnet,Arrow Electronics,Albertsons
+316,Owens Corning,Beacon Roofing Supply,Applied Materials,Jabil,3M
+317,PBF Energy,Baker Hughes,Ameren,Air Products & Chemicals,American Airlines Group
+318,PBF Energy,Baker Hughes,Ameren,Air Products & Chemicals,American Airlines Group
+319,PBF Energy,Baker Hughes,Ameren,Air Products & Chemicals,American Airlines Group
+320,PG&E,Oneok,Ameren,Baker Hughes,3M
+321,PNC Financial Services,JPMorgan Chase,Bank of America,Bank of New York Mellon,Omnicom Group
+322,PPG Industries,Air Products & Chemicals,Baker Hughes,Avery Dennison,American Financial Group
+323,PPG Industries,Air Products & Chemicals,Baker Hughes,Avery Dennison,American Financial Group
+324,PVH,Nike,Bank of New York Mellon,Automatic Data Processing,AECOM
+325,Paccar,3M,A-Mark Precious Metals,AECOM,AGCO
+326,Parker-Hannifin,Jabil,Applied Materials,3M,AGCO
+327,PayPal Holdings,American Express,Bank of America,NCR,Ameriprise Financial
+328,PepsiCo,Applied Materials,3M,AGCO,Amgen
+329,Performance Food Group,3M,A-Mark Precious Metals,AECOM,AGCO
+330,Peter Kiewit Sons’,Beacon Roofing Supply,American Airlines Group,AECOM,Ameren
+331,Pfizer,AbbVie,Amgen,AmerisourceBergen,Baxter International
+332,Phillips 66,Applied Materials,3M,AGCO,Amgen
+333,Pioneer Natural Resources,Ameren,Baker Hughes,Academy Sports and Outdoors,Automatic Data Processing
+334,Principal Financial,Bank of New York Mellon,JPMorgan Chase,Assurant,Bank of America
+335,Principal Financial,Bank of New York Mellon,JPMorgan Chase,Assurant,Bank of America
+336,Procter & Gamble,Johnson & Johnson,Bath & Body Works,3M,Air Products & Chemicals
+337,Progressive,Advance Auto Parts,Ally Financial,Auto-Owners Insurance,Allstate
+338,Prudential Financial,Ameriprise Financial,American Express,AIG,Assurant
+339,Prudential Financial,Ameriprise Financial,American Express,AIG,Assurant
+340,Public Service Enterprise Group,Ameren,AT&T,Baker Hughes,Bank of America
+341,Publix Super Markets,3M,AECOM,AGCO,AIG
+342,PulteGroup,Avis Budget Group,Beacon Roofing Supply,Apollo Global Management,Advance Auto Parts
+343,Qualcomm,AT&T,Arrow Electronics,Avery Dennison,AltriaGroup
+344,Quest Diagnostics,Amgen,AbbVie,Baxter International,AmerisourceBergen
+345,Qurate Retail,3M,A-Mark Precious Metals,AECOM,AGCO
+346,Raymond James Financial,Assurant,Bank of America,Ally Financial,American Express
+347,Raytheon Technologies,Applied Materials,AT&T,Arrow Electronics,Amgen
+348,Raytheon Technologies,Applied Materials,AT&T,Arrow Electronics,Amgen
+349,Regeneron Pharmaceuticals,AmerisourceBergen,AbbVie,Amgen,Baxter International
+350,Regions Financial,Ally Financial,Bank of America,Allstate,Bank of New York Mellon
+351,Reinsurance Group of,AIG,Auto-Owners Insurance,American Family Insurance Group,Allstate
+352,Reliance Steel & Aluminum,3M,A-Mark Precious Metals,AECOM,AGCO
+353,Republic Services,Old Republic International,AT&T,Automatic Data Processing,AECOM
+354,Rite Aid,Advance Auto Parts,Aramark,AutoNation,AutoZone
+355,Robert Half International,Automatic Data Processing,Arthur J. Gallagher,Adobe,American Express
+356,Rocket Companies,NVR,JPMorgan Chase,Ally Financial,Avis Budget Group
+357,Rockwell Automation,Avnet,Arrow Electronics,Automatic Data Processing,Applied Materials
+358,Roper Technologies,3M,A-Mark Precious Metals,AECOM,AGCO
+359,Ross Stores,Avantor,Advance Auto Parts,AutoNation,AutoZone
+360,S&P Global,Ally Financial,Bank of America,Bank of New York Mellon,Assurant
+361,Salesforce,Adobe,AmerisourceBergen,3M,Bank of New York Mellon
+362,Sanmina,Jabil,Applied Materials,3M,AGCO
+363,Science Applications International,AT&T,Arrow Electronics,Avnet,Automatic Data Processing
+364,Seaboard,AGCO,Automatic Data Processing,Beacon Roofing Supply,Assurant
+365,Securian Financial Group,AIG,Auto-Owners Insurance,American Family Insurance Group,American Financial Group
+366,Sempra,Baker Hughes,NextEra Energy,Ameren,AECOM
+367,Sherwin-Williams,O'Reilly Automotive,3M,AGCO,AutoZone
+368,Sonic Automotive,AutoNation,Advance Auto Parts,Autoliv,AutoZone
+369,Southwest Airlines,American Airlines Group,AutoZone,Altice USA,Aramark
+370,Southwestern Energy,Baker Hughes,Ameren,Air Products & Chemicals,Avery Dennison
+371,SpartanNash,Advance Auto Parts,BJ's Wholesale Club,AutoNation,AutoZone
+372,Stanley Black & Decker,Advance Auto Parts,Autoliv,AutoZone,AutoNation
+373,Starbucks,Archer Daniels Midland,Albertsons,AutoZone,Apple
+374,State Farm Insurance,Auto-Owners Insurance,Assurant,AIG,Allstate
+375,State Street,Bank of New York Mellon,Bank of America,Ally Financial,Ameriprise Financial
+376,Steel Dynamics,Aramark,AutoNation,AECOM,Beacon Roofing Supply
+377,StoneX Group,3M,A-Mark Precious Metals,AECOM,AGCO
+378,Stryker,AbbVie,AmerisourceBergen,Amgen,Aramark
+379,Synchrony Financial,Allstate,Assurant,Ally Financial,Ameriprise Financial
+380,Sysco,Aramark,Archer Daniels Midland,AmerisourceBergen,Avnet
+381,T. Rowe Price,Ally Financial,Jefferies Financial Group,Apollo Global Management,Assurant
+382,TD Synnex,3M,A-Mark Precious Metals,AECOM,AGCO
+383,TIAA,Avantor,Alleghany,Ameriprise Financial,American Express
+384,TJX,AutoZone,Bath & Body Works,Amazon,Advance Auto Parts
+385,Targa Resources,Baker Hughes,Ameren,Bank of America,Apollo Global Management
+386,Target,AutoZone,BJ's Wholesale Club,Amazon,Advance Auto Parts
+387,Taylor Morrison Home,Beacon Roofing Supply,American Family Insurance Group,Avnet,AECOM
+388,Tenet Healthcare,Amgen,AbbVie,AmerisourceBergen,Baxter International
+389,Tenneco,3M,AGCO,AutoNation,Ally Financial
+390,Tesla,Ally Financial,Advance Auto Parts,Autoliv,Air Products & Chemicals
+391,Texas Instruments,Applied Materials,Air Products & Chemicals,Arrow Electronics,AT&T
+392,Textron,Ally Financial,Asbury Automotive Group,Baker Hughes,Assurant
+393,Thermo Fisher Scientific,Jacobs Engineering Group,AmerisourceBergen,Baker Hughes,Applied Materials
+394,Thor Industries,Auto-Owners Insurance,Assurant,Apollo Global Management,American Family Insurance Group
+395,Thrivent Financial for,New York Life Insurance,Ameriprise Financial,American Express,Ally Financial
+396,Toll Brothers,Beacon Roofing Supply,AECOM,Avis Budget Group,Apollo Global Management
+397,Tractor Supply,BJ's Wholesale Club,Bath & Body Works,Advance Auto Parts,Bed Bath & Beyond
+398,TravelCenters of America,Bed Bath & Beyond,Advance Auto Parts,AutoNation,BJ's Wholesale Club
+399,Truist Financial,Ally Financial,Jefferies Financial Group,Jefferies Financial Group,Bank of America
+400,Tyson Foods,Archer Daniels Midland,Air Products & Chemicals,3M,Advanced Micro Devices
+401,U.S. Bancorp,Northern Trust,Ameriprise Financial,Jefferies Financial Group,Jefferies Financial Group
+402,UFP Industries,Beacon Roofing Supply,Advance Auto Parts,Baker Hughes,Air Products & Chemicals
+403,UFP Industries,Beacon Roofing Supply,Advance Auto Parts,Baker Hughes,Air Products & Chemicals
+404,UPS,American Airlines Group,Air Products & Chemicals,American Express,Ameriprise Financial
+405,US Foods Holding,Bed Bath & Beyond,BJ's Wholesale Club,Albertsons,Archer Daniels Midland
+406,Uber Technologies,American Airlines Group,Air Products & Chemicals,Apple,Amazon
+407,Uber Technologies,American Airlines Group,Air Products & Chemicals,Apple,Amazon
+408,Uber Technologies,American Airlines Group,Air Products & Chemicals,Apple,Amazon
+409,Ulta Beauty,Bath & Body Works,Advance Auto Parts,Nordstrom,AutoNation
+410,Union Pacific,American Airlines Group,Air Products & Chemicals,Ameren,American Express
+411,United Airlines Holdings,American Airlines Group,AT&T,American Express,Avis Budget Group
+412,United Natural Foods,Archer Daniels Midland,Aramark,AmerisourceBergen,Amgen
+413,United States Steel,Avery Dennison,AltriaGroup,3M,Bank of America
+414,UnitedHealth Group,Johnson & Johnson,AbbVie,AmerisourceBergen,Air Products & Chemicals
+415,Univar Solutions,Air Products & Chemicals,Ally Financial,Archer Daniels Midland,Arrow Electronics
+416,Unum Group,Ameriprise Financial,American Express,Assurant,AIG
+417,VF,Bank of America,AmerisourceBergen,AutoZone,Allstate
+418,Valero Energy,Baker Hughes,Ameren,AGCO,Jabil
+419,Veritiv,Avnet,Bank of New York Mellon,Albertsons,Arrow Electronics
+420,Verizon Communications,Altice USA,AT&T,AECOM,Baker Hughes
+421,Verizon Communications,Altice USA,AT&T,AECOM,Baker Hughes
+422,Vertex Pharmaceuticals,AbbVie,Amgen,AmerisourceBergen,Baxter International
+423,Viatris,3M,A-Mark Precious Metals,AECOM,AGCO
+424,W.R. Berkley,AIG,Auto-Owners Insurance,American Financial Group,Arthur J. Gallagher
+425,W.W. Grainger,Jabil,Archer Daniels Midland,Beacon Roofing Supply,Applied Materials
+426,WEC Energy Group,AmerisourceBergen,Ameren,Air Products & Chemicals,AutoZone
+427,WESCO International,3M,ON Semiconductor,Applied Materials,Jabil
+428,Walgreens Boots Alliance,AmerisourceBergen,Amgen,AbbVie,Aramark
+429,Walmart,BJ's Wholesale Club,Albertsons,Advance Auto Parts,AutoNation
+430,Walt Disney,Activision Blizzard,Bath & Body Works,Altice USA,American Express
+431,Warner Bros. Discovery,Activision Blizzard,Adobe,Amazon,Altice USA
+432,Wayfair,Bed Bath & Beyond,BJ's Wholesale Club,Advance Auto Parts,AutoNation
+433,Wells Fargo,American Express,Bank of America,Allstate,Bank of New York Mellon
+434,WestRock,Bank of America,Advance Auto Parts,AutoZone,3M
+435,Western Digital,Jabil,Arrow Electronics,Adobe,Avnet
+436,Western and Southen Financial Group,American Financial Group,American Family Insurance Group,AIG,Arthur J. Gallagher
+437,Westinghouse Air Break Technologies,Jabil,3M,Applied Materials,AGCO
+438,Weyerhaeuser,Auto-Owners Insurance,Bank of America,AT&T,American Family Insurance Group
+439,Whirlpool,Newell Brands,Jabil,Apple,3M
+440,Williams-Sonoma,3M,A-Mark Precious Metals,AECOM,AGCO
+441,XPO Logistics,Automatic Data Processing,AECOM,Allstate,Bank of America
+442,XPO Logistics,3M,A-Mark Precious Metals,AECOM,AGCO
+443,Xcel Energy,Ameren,Baker Hughes,Air Products & Chemicals,AECOM
+444,Xerox Holdings,Arrow Electronics,Avnet,Apple,Baker Hughes
+445,Xerox Holdings,Arrow Electronics,Avnet,Apple,Baker Hughes
+446,Xerox Holdings,Arrow Electronics,Avnet,Apple,Baker Hughes
+447,Yum Brands,Archer Daniels Midland,Aramark,American Airlines Group,Bank of America
+448,Yum China Holdings,3M,A-Mark Precious Metals,AECOM,AGCO
+449,Zimmer Biomet Holdings,Amgen,Johnson & Johnson,3M,AbbVie
+450,Zoetis,AbbVie,AmerisourceBergen,Amgen,Aramark
+451,eBay,Amazon,AutoZone,Advance Auto Parts,AutoNation

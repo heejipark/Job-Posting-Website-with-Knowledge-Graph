@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Job postings</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/posting.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='javascript/posting.js') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/company.css') }}" rel="stylesheet">
+
+</head>
+<body>
+<header class="header-top center flex-row padding-2">
+    <div class="logo-container"> <a class="logo" href="/"> 
+        <h1>
+            <span>G</span><span>o</span> <span>J</span><span>o</span><span>b</span><span>s</span>
+          </h1>    
+    </a> </div>
+</header>
+<div class="wrapper center-x flex-row">
+    <div class="search-bar padding-1 max-1200 flex-row center-x margin-center">
+        <form class="flex-row center" action="/posting" method='POST'>
+            <div class="search_keyword">
+                <input class="input-lg mr-1" name="search_term" type="text" placeholder="Job Title, Keywords or Company">
+                <select class="input-sm mr-1" name="information_type" id="">
+                    <option class="input" name = "search_type" value="search_type"> Jobs</option>
+                    <option class="input" name="search_company" value="search_company"> Companies</option>
+                    <option class="input" name="search_skill" value="search_skill"> Skills</option>
+                    <option class="input" name="search_location" value="search_location"> Location</option>
+                </select>
+                <input class="btn btn-apply" type="submit" value="Search">
+                <a href='/salaryFilter'class="btn btn-apply">Filter</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+<div class="wrapper bg center-x flex-row">
+    <main class="flex-row mt-1 mb-4 max-1200 ">
+        <div class="left-side flex-col job-main padding-1-0">
+
+        <script type = "text/javascript">  
+            var records = {{ records|tojson }}
+
+            function set_job_description(idx) {
+                let record = records[idx]
+                let el = document.getElementById("oppa")
+
+                el.innerHTML = `
+                <header class="header-listing flex-row sticky center padding ">
+                    <div class="job-listing-information-container flex-col mr-auto">
+                        <div class="company-name-container padding-half">
+                            <a href="/company/${record.company}" style="text-decoration: none; color: #986ee2; font-size:15px;"><b>${record.company}</b></a>
+                        </div>
+                        <div class="job-title-container padding-half">
+                            <strong> <p class="job-title" style="font-size:30px;"> ${record.title} </p> </strong>
+                        </div>
+                        <div class="location-container padding-half"> <span class="font-light-sm"> <b> ${record.city}, ${record.state} </b> </span> </div>
+                    </div>
+                    <div class="apply-container padding-half"> 
+                        <button class="btn" type="submit"> 
+                            <a href="https://${record.application}" style="text-decoration: none; color: #ffffff" target="_blank">
+                                Apply Now
+                            </a>
+                        </button> 
+                    </div>
+                </header>
+                <div class="job-description-container padding-1">
+                    <div class="title">
+                        <h2 class="job-listing__job-description-title2">Job Summary</h2>
+                    </div>
+
+                    <div class="job-listing-header__job-details-middle">
+                        <table class="job-listing-header__mata-table">
+                            <tr>
+                                <th>Job Type</th>
+                                <td><span>${record.type}<span></td>
+                            </tr>
+                            <tr>
+                                <th>Preferred Language</th>
+                                <td>${record.language}</td>
+                            </tr>
+                            <tr>
+                                <th>Preferred Framework</th>
+                                <td>${record.framework}</td>
+                            </tr>
+                            <tr>
+                                <th>Preferred Soft-skills</th>
+                                <td>${record.soft}</td>
+                            </tr>
+                            <tr>
+                                <th>Salary Type</th>
+                                <td>${record.salaryType}</td>
+                            </tr>
+                            <tr>
+                                <th>Expected Salary </th>
+                                <td>${record.salaryLow}K ~ ${record.salaryHigh}K</td>
+                            </tr>
+                        </table>
+                        <br>
+                    </div>
+                    
+                    <h2 class="job-listing__job-description-title2">Job Description</h2>
+                    
+                    <div class="job-description">
+                        ${record.desc}
+                    </div>
+
+                </div>
+                `
+            }
+        </script>  
+
+        {% for dict_item in records %}
+            <div class="job-listing-container flex-col center-x" onclick="set_job_description({{loop.index0}})">
+                <div class="job-item flex-row padding-1">
+                    <div class="information-container padding-half-0 flex-col">
+                        <p style="text-decoration: none; color: #986ee2; font-size:15px;"> <b>
+                        {{ dict_item.company }} </b> </p>
+                        <div class="job-title-container padding-half-0">
+                            <strong> <p class="job-title" style="font-size:15px;"> {{ dict_item.title }}  </p></strong>
+                        </div>
+                        <div class="location-container padding-half-0"> 
+                            <span class="font-light-sm" font-size:12px;> <b>
+                                {{ dict_item.city }}, {{ dict_item.state }} </b>
+                            </span> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+
+        <div class="right-side job-main " id="oppa"></div>
+        <script>
+            let el = document.getElementById("oppaa")
+            if (el == null && records.length > 0) {
+                set_job_description(0)
+            }
+        </script>
+</div>
+
+</main>
+</div>
+
+
+</body>
+</html>

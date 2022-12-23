@@ -1,0 +1,342 @@
+$color__blue : #073B4C;
+$color__blue-pastel : #B3C1CE;
+$color__blue-cerulean : #0CAADC;
+$color__red : #E84855;
+$color__white : #FFFFFF;
+$color__white-smoke : #F6F7F8;
+$color__white-flash : #EDEFF2;
+$color__green-eucalyptus : #56D39B;
+
+$font__body : 'Open Sans',
+sans-serif;
+$font__headings : 'Montserrat',
+sans-serif;
+$font__body--color : lighten($color__blue, 2%);
+$font__headings--color : $color__blue;
+
+$size__1 : 16px;
+$size__0-25 : $size__1 * 0.25;
+$size__0-5 : $size__1 * 0.5;
+$size__1-25 : $size__1 * 1.25;
+$size__1-5 : $size__1 * 1.5;
+$size__2 : $size__1 * 2;
+$size__3 : $size__1 * 3;
+
+$border__default : 2px solid $color__white-flash;
+$box-shadow__base : 0 0 20px rgba(0, 0, 0, 0.1);
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	color: $font__body--color;
+	font-family: $font__body;
+	line-height: 1.4;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 0;
+	margin-bottom: $size__1;
+	color: $color__blue;
+	font-family: $font__headings;
+	line-height: 1.1;
+}
+
+.content-container {
+	display: flex;
+	flex-direction: column;
+
+	@media screen and (min-width: 768px) {
+		max-width: 736px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	@media screen and (min-width: 1140px) {
+		flex-direction: row;
+		max-width: 1200px;
+	}
+}
+
+.job-listing,
+.job-listing-sidebar {
+	padding-top: $size__2;
+	padding-bottom: $size__2;
+	padding-left: $size__1;
+	padding-right: $size__1;
+}
+
+.job-listing {
+	@media screen and (min-width: 1140px) {
+		max-width: 70%;
+		min-width: 70%;
+	}
+}
+
+.job-listing-sidebar {
+	@media screen and (min-width: 1140px) {
+		max-width: 30%;
+		min-width: 30%;
+	}
+}
+
+.job-listing-header {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: $size__2;
+	box-shadow: $box-shadow__base;
+	overflow: hidden;
+
+	@media screen and (min-width: 576px) {
+		flex-direction: row;
+	}
+}
+
+.job-listing-header__banner {
+	position: relative;
+	min-width: $size__3;
+	padding: $size__1;
+	color: $color__white;
+	font-family: $font__headings;
+	font-size: $size__1;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background-color: $color__blue;
+	-webkit-font-smoothing: antialiased;
+
+	@media screen and (min-width: 576px) {
+		padding: 0;
+	}
+}
+
+.job-listing-header__banner span {
+	@media screen and (min-width: 576px) {
+		position: absolute;
+		bottom: 0;
+		left: $size__1;
+		line-height: 1;
+		transform: rotate(-90deg);
+		transform-origin: 0 0;
+	}
+}
+
+.job-listing-header__content {
+	display: flex;
+	flex-direction: column;
+	min-width: calc(100% - 48px);
+	padding: $size__1;
+
+	@media screen and (min-width: 768px) {
+		flex-direction: row;
+	}
+}
+
+.job-listing-header__company-logo {
+	margin-bottom: $size__1;
+
+	@media screen and (min-width: 768px) {
+		margin-bottom: 0;
+		align-self: center;
+	}
+}
+
+.job-listing-header__job-details {
+	@media screen and (min-width: 768px) {
+		width: 100%;
+		padding-left: $size__1;
+	}
+}
+
+.job-listing-header__job-details-top {
+	min-width: 100%;
+	padding-bottom: $size__1;
+	border-bottom: $border__default;
+
+	@media screen and (min-width: 768px) {
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
+
+.job-listing-header__job-details-middle {
+	margin-top: $size__1;
+	padding-bottom: $size__1;
+	border-bottom: $border__default;
+}
+
+.job-listing-header__job-title {
+	font-size: $size__1-5;
+	margin-bottom: $size__0-5;
+
+	@media screen and (min-width: 768px) {
+		width: 100%;
+		font-size: $size__2;
+	}
+}
+
+.job-listing-header__company-name {
+	display: block;
+	margin-bottom: $size__0-5;
+	font-size: 14px;
+	font-weight: bold;
+
+	@media screen and (min-width: 768px) {
+		margin-bottom: 0;
+		font-size: 18px;
+	}
+}
+
+.job-listing-header__company-name span {
+	color: rgba($color__blue, 0.6);
+	font-weight: normal;
+}
+
+.job-listing-header__date-posted {
+	display: block;
+	font-size: 14px;
+	font-style: italic;
+
+	@media screen and (min-width: 768px) {
+		margin-left: auto;
+		align-self: flex-end;
+	}
+}
+
+.job-listing-header__mata-table {
+	text-align: left;
+}
+
+.job-listing-header__mata-table th,
+.job-listing-header__mata-table td {
+	padding-top: $size__0-25;
+	padding-bottom: $size__0-25;
+	vertical-align: middle;
+}
+
+.job-listing-header__mata-table td {
+	padding-left: $size__0-5;
+}
+
+.job-listing-header__job-details-bottom {
+	display: flex;
+	justify-content: flex-end;
+	padding-top: $size__1;
+}
+
+.job-listing__job-description {
+	padding: $size__1;
+	box-shadow: $box-shadow__base;
+}
+
+.job-listing__job-description-title {
+	margin-left: - $size__1;
+	margin-right: - $size__1;
+	margin-top: - $size__1;
+	padding: $size__1;
+	color: $color__white;
+	font-size: $size__1;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background-color: $color__blue;
+}
+
+.sidebar-widget {
+	display: flex;
+	flex-direction: column;
+	min-width: 100%;
+	margin-bottom: $size__2;
+	box-shadow: $box-shadow__base;
+}
+
+.sidebar-widget__title {
+	margin-bottom: 0;
+	padding: $size__1;
+	font-size: $size__1;
+	text-transform: uppercase;
+	background-color: $color__white-flash;
+}
+
+.sidebar-widget__related-jobs {
+	margin: 0;
+	padding: $size__1;
+	list-style: none;
+}
+
+.sidebar-widget__related-job:not(:last-of-type) {
+	padding-bottom: $size__1;
+	border-bottom: $border__default;
+}
+
+.sidebar-widget__related-job:not(:first-of-type) {
+	padding-top: $size__1;
+}
+
+.sidebar-widget__related-job--link {
+	display: flex;
+	flex-direction: column;
+	color: $color__blue;
+	text-decoration: none;
+}
+
+.sidebar-widget__related-job-title {
+	margin-bottom: $size__0-5;
+	font-size: $size__1-25;
+}
+
+.sidebar-widget__related-job-company {
+	font-weight: bold;
+}
+
+.sidebar-widget__related-job-company,
+.sidebar-widget__related-job-location {
+	font-size: $size__1;
+	margin-bottom: $size__0-25;
+}
+
+.sidebar-widget__related-job-date {
+	font-size: 14px;
+	font-style: italic;
+}
+
+.sidebar-widget__quick-actions a {
+	display: block;
+	padding: $size__1;
+	color: $color__blue-cerulean;
+	text-decoration: none;
+}
+
+.btn-apply {
+	display: inline-block;
+	padding: $size__1 $size__1-5;
+	color: $color__white;
+	font-size: $size__1;
+	text-decoration: none;
+	background-color: $color__green-eucalyptus;
+	border-radius: 100px;
+
+	&:hover,
+	&:focus {
+		background-color: darken($color__green-eucalyptus, 4%);
+	}
+}
+
+// Create a rule to use when hiding text from users that are 
+// not using a screen reader or similar web browsing aid.
+.sr-only {
+	border: 0 !important;
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px !important;
+	overflow: hidden;
+	padding: 0 !important;
+	position: absolute !important;
+	white-space: nowrap !important;
+	width: 1px !important;
+}

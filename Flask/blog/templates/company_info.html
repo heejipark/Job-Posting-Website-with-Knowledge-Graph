@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Job postings</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/posting.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/company.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='javascript/posting.js') }}" rel="stylesheet">
+</head>
+<body>
+<header class="header-top center flex-row padding-2">
+    <div class="logo-container"> <a class="logo" href="/"> 
+        <h1>
+            <span>G</span><span>o</span> <span>J</span><span>o</span><span>b</span><span>s</span>
+          </h1>    
+    </a> </div>
+</header>
+<div class="wrapper center-x flex-row">
+    <div class="search-bar padding-1 max-1200 flex-row center-x margin-center">
+        <form class="flex-row center" action="/posting" method='POST'>
+            <div class="search_keyword">
+                <input class="input-lg mr-1" name="search_term" type="text" placeholder="Job Title, Keywords or Company">
+                <select class="input-sm mr-1" name="information_type" id="">
+                    <option class="input" name = "search_type" value="search_type"> Jobs</option>
+                    <option class="input" name="search_company" value="search_company"> Companies</option>
+                    <option class="input" name="search_skill" value="search_skill"> Skills</option>
+                    <option class="input" name="search_location" value="search_location"> Location</option>
+                </select>
+                <input class="btn btn-apply" type="submit" value="Search">
+                <a href='/salaryFilter'class="btn btn-apply">Filter</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<div class="wrapper bg center-x flex-row">
+    <main class="mt-1 mb-4 max-1200 ">
+        <div class="content-container">
+            <article class="job-listing" itemscope itemtype="https://schema.org/JobPosting">
+                <header class="job-listing-header">
+                    <div class="job-listing-header__banner">
+                        <span>Summary</span>
+                    </div>
+                    <div class="job-listing-header__content">
+                        <div class="job-listing-header__job-details">
+                            <div class="job-listing-header__job-details-top">
+                                <h1 class="job-listing-header__job-title" itemprop="title">{{company_name}}</h1>
+                                <span class="job-listing-header__company-name" itemprop="hiringOrganization">
+                                    {% if records.also_known_as %}
+                                    <center>{{records.also_known_as}}</center>
+                                    {% endif %}
+                                </span>
+                                <span class="job-listing-header__date-posted"><a href={{records.website_link}} class="btn btn-apply2" target="_blank">Website</a></span>
+                            </div>
+                            <div class="job-listing-header__job-details-middle">
+                                <table class="job-listing-header__mata-table">
+                                    {% if records.hub %}
+                                    <tr>
+                                        <th>Company Type</th>
+                                        <td><span>{{records.company_type}}<span></td>
+                                    </tr>
+                                    {% endif %}
+                                    {% if records.IPO_status %}
+                                    <tr>
+                                        <th>IPO Status</th>
+                                        <td>{{records.IPO_status}}</td>
+                                    </tr>
+                                    {% endif %}
+
+                                    {% if records.headquaters_location_city %}
+                                    <tr>
+                                        <th>Headquater Location</th>
+                                        <td>{{records.headquaters_location_city}}, {{records.headquaters_location_state}}, {{records.headquaters_location_country}}</td>
+                                    </tr>
+                                    {% endif %}
+
+                                    {% if records.num_employees_enum %}
+                                    <tr>
+                                        <th>Employees</th>
+                                        <td>{{records.num_employees_enum}}</td>
+                                    </tr>
+                                    {% endif %}
+
+                                    {% if records.revenue %}
+                                    <tr>
+                                        <th>Revenue</th>
+                                        <td>{{records.revenue}}</td>
+                                    </tr>
+                                    {% endif %}
+
+                                    {% if records.founded_date %}
+                                    <tr>
+                                        <th>Founded date</th>
+                                        <td>{{records.founded_date}}</td>
+                                    </tr>
+                                    {% endif %}
+
+                                    {% if records.founder %}
+                                    <tr>
+                                        <th>Founder</th>
+                                        <td>{{records.founder}}</td>
+                                    </tr>
+                                    {% endif %}
+                                    {% if records.hub %}
+                                    <tr>
+                                        <th>Hub</th>
+                                        <td>{{records.hub}}</td>
+                                    </tr>
+                                    {% endif %}
+                                    {% if records.industries %}
+                                    <tr>
+                                        <th>Industry</th>
+                                        <td>{{records.industries}}</td>
+                                    </tr>
+                                    {% endif %}
+                                    {% if records.operating_status %}
+                                    <tr>
+                                        <th>Operating Status</th>
+                                        <td>{{records.operating_status}}</td>
+                                    </tr>
+                                    {% endif %}
+                                    {% if records.stock_symbol %}
+                                    <tr>
+                                        <th>Stock symbol</th>
+                                        <td>{{records.stock_symbol}}</td>
+                                    </tr>
+                                    {% endif %}
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+        
+                <section class="job-listing__job-description" itemprop="description">
+                    <h2 class="job-listing__job-description-title">Company Description</h2>
+                    <p style="text-align:justify">{{records.description}}</p>
+                </section>
+
+                <section class="job-listing__job-description" itemprop="description">
+                    <h2 class="job-listing__job-description-title">Review from employees</h2>
+                    <div class="job-listing-header__job-details-middle">
+                        <table class="job-listing-header__mata-table">
+                            <tr style='border-bottom: 1pt solid black;'>
+                                <th>Pros</th>
+                                <td>
+                                    <ul>
+                                    {% for re in review[0].Pros %}
+                                        <li>{{re}} </li>
+                                    {% endfor%} 
+                                    </ul>  
+                                </td>
+                            </tr>
+                             <tr>
+                                <th>Cons</th>
+                                <td>
+                                    <ul>
+                                    {% for re in review[0].Cons %}
+                                      <li> {{re}} </li>
+                                    {% endfor%}   
+                                    </ul>
+                                </td>
+                            </tr>
+                        </table>
+
+                    </div>
+                </section>
+
+            </article>
+            <aside class="job-listing-sidebar">
+                <section class="sidebar-widget">
+                    <h3 class="sidebar-widget__title">Related Companies <small>by <em>Category</em></small></h3>
+                    <ul class="sidebar-widget__related-jobs">
+                        <li class="sidebar-widget__related-job">
+                            <a href="/company/{{similar[0].sim_company_1}}" class="sidebar-widget__related-job--link">
+                                <h4 class="sidebar-widget__related-job-title">{{similar[0].sim_company_1}}</h4>
+                                <span class="sidebar-widget__related-job-date">No 1. similar company</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-widget__related-job">
+                            <a href="/company/{{similar[0].sim_company_2}}" class="sidebar-widget__related-job--link">
+                                <h4 class="sidebar-widget__related-job-title">{{similar[0].sim_company_2}}</h4>
+                                <span class="sidebar-widget__related-job-date">No 2. similar company</span>
+                            </a>
+                        </li>
+                        <li class="sidebar-widget__related-job">
+                            <a href="/company/{{similar[0].sim_company_3}}" class="sidebar-widget__related-job--link">
+                                <h4 class="sidebar-widget__related-job-title">{{similar[0].sim_company_3}}</h4>
+                                <span class="sidebar-widget__related-job-date">No 3. similar company</span>
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+        
+            </aside>
+            
+        </div>
+
+    </div>
+
+</main>
+</div>
+
+
+</body>
+</html>

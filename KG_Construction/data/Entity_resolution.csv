@@ -1,0 +1,455 @@
+crunchbase.ID,glassdoor.ID,Crunchbase.CName,Glassdoor.CName,confidence
+1,101,3M,3M,1.0
+2,445,A-Mark Precious Metals,A-Mark Precious Metals,0.88
+3,259,AECOM,AECOM,1.0
+5,333,AGCO,AGCO,1.0
+6,66,AIG,AIG,1.0
+9,12,AT&T,AT&T,1.0
+10,62,AbbVie,AbbVie,0.88
+12,480,Academy Sports and Outdoors,Academy Sports and Outdoors,1.0
+13,395,Activision Blizzard,Activision Blizzard,0.9
+14,234,Adobe,Adobe,1.0
+15,336,Advance Auto Parts,Advance Auto Parts,0.88
+16,225,Advanced Micro Devices,Advanced Micro Devices,0.9
+17,160,Aflac,Aflac,0.9
+18,349,Air Products & Chemicals,Air Products & Chemicals,1.0
+19,51,Albertsons,Albertsons,1.0
+21,317,Alleghany,Alleghany,0.88
+22,65,Allstate,Allstate,1.0
+23,344,Ally Financial,Ally Financial,0.9
+25,354,Altice USA,Altice USA,0.88
+26,164,AltriaGroup,AltriaGroup,1.0
+27,1,Amazon,Amazon,1.0
+28,499,Ameren,Ameren,0.88
+29,113,American Airlines Group,American Airlines Group,1.0
+31,84,American Express,American Express,1.0
+32,250,American Family Insurance Group,American Family Insurance Group,1.0
+33,463,American Financial Group,Securian Financial Group,0.88
+34,374,American Tower,American Tower,1.0
+35,276,Ameriprise Financial,Ameriprise Financial,1.0
+36,9,AmerisourceBergen,AmerisourceBergen,0.88
+37,139,Amgen,Amgen,1.0
+41,385,Apollo Global Management,Apollo Global Management,0.9
+42,2,Apple,Apple,1.0
+43,155,Applied Materials,Applied Materials,1.0
+44,313,Aramark,Aramark,1.0
+45,37,Archer Daniels Midland,Archer Daniels Midland,0.9
+47,103,Arrow Electronics,Arrow Electronics,1.0
+48,421,Arthur J. Gallagher,Arthur J. Gallagher,1.0
+49,359,Asbury Automotive Group,Asbury Automotive Group,1.0
+50,324,Assurant,Assurant,1.0
+51,338,Auto-Owners Insurance,Auto-Owners Insurance,1.0
+52,140,AutoNation,AutoNation,1.0
+53,248,AutoZone,AutoZone,1.0
+54,420,Autoliv,Autoliv,1.0
+55,241,Automatic Data Processing,Automatic Data Processing,1.0
+56,456,Avantor,Avantor,0.9
+57,411,Avery Dennison,Avery Dennison,1.0
+58,377,Avis Budget Group,Avis Budget Group,1.0
+59,179,Avnet,Avnet,1.0
+60,220,BJ's Wholesale Club,BJ's Wholesale Club,1.0
+61,169,Baker Hughes,Baker Hughes,1.0
+63,35,Bank of America,Bank of America,1.0
+64,228,Bank of New York Mellon,Bank of New York Mellon,1.0
+65,434,Bath & Body Works,Bath & Body Works,1.0
+66,199,Baxter International,WESCO International,0.88
+66,242,Baxter International,Edison International,0.88
+66,291,Baxter International,Baxter International,1.0
+67,477,Beacon Roofing Supply,Beacon Roofing Supply,1.0
+69,380,Bed Bath & Beyond,Bed Bath & Beyond,1.0
+70,6,Berkshire Hathaway,Berkshire Hathaway,0.88
+71,270,Berry Global Group,Berry Global Group,1.0
+72,67,Best Buy,Best Buy,0.88
+73,337,Biogen,Biogen,1.0
+74,183,BlackRock,BlackRock,1.0
+76,207,Block,Block,1.0
+78,431,Boise Cascade,Boise Cascade,1.0
+79,339,Booking Holdings,Booking Holdings,1.0
+80,435,Booz Allen Hamilton Holding,Booz Allen Hamilton Holding,0.88
+81,243,BorgWarner,BorgWarner,1.0
+82,318,Boston Scientific,Boston Scientific,1.0
+83,467,Brighthouse Financial,Brighthouse Financial,0.9
+84,81,Bristol-Myers Squibb,Bristol-Myers Squibb,1.0
+85,127,Broadcom,Broadcom,1.0
+86,175,Builders FirstSource,Builders FirstSource,1.0
+87,376,Burlington Stores,Burlington Stores,1.0
+88,153,C.H. Robinson Worldwide,C.H. Robinson Worldwide,0.88
+89,125,CBRE Group,CBRE Group,0.88
+90,165,CDW,CDW,0.9
+93,132,CMS Energy,NRG Energy,0.88
+93,450,CMS Energy,CMS Energy,1.0
+94,297,CSX,CSX,1.0
+95,3,CVS Health,CVS Health,1.0
+96,334,Caesars Entertainment,Caesars Entertainment,1.0
+97,408,Campbell Soup,Campbell Soup,1.0
+98,474,Camping World Holdings,Camping World Holdings,0.88
+99,107,Capital One Financial,Capital One Financial,0.88
+100,173,CarMax,CarMax,1.0
+101,14,Cardinal Health,Cardinal Health,1.0
+102,397,Carlyle Group,Carlyle Group,0.9
+103,168,Carrier Global,Carrier Global,0.88
+105,444,Casey's General Stores,Casey's General Stores,1.0
+106,72,Caterpillar,Caterpillar,0.88
+107,405,Celanese,Celanese,0.9
+108,25,Centene,Centene,0.88
+109,413,CenterPoint Energy,CenterPoint Energy,0.9
+110,187,Charles Schwab,Charles Schwab,0.88
+111,22,Charter Communications,Verizon Communications,0.88
+111,68,Charter Communications,Charter Communications,1.0
+111,498,Charter Communications,Frontier Communications,0.88
+112,232,Cheniere Energy,Cheniere Energy,0.9
+113,15,Chevron,Chevron,1.0
+114,393,Chewy,Chewy,0.88
+115,449,Chipotle Mexican Grill,Chipotle Mexican Grill,1.0
+116,11,Cigna,Cigna,1.0
+117,366,Cincinnati Financial,Cincinnati Financial,0.9
+118,469,Cintas,Cintas,1.0
+119,73,Cisco Systems,Cisco Systems,1.0
+120,43,Citigroup,Citigroup,1.0
+122,170,Cleveland-Cliffs,Cleveland-Cliffs,0.9
+123,458,Clorox,Clorox,1.0
+124,92,Coca-Cola,Coca-Cola,0.88
+125,436,Coinbase Global,Coinbase Global,0.9
+126,210,Colgate-Palmolive,Colgate-Palmolive,1.0
+127,27,Comcast,Comcast,0.9
+128,404,CommScope Holding,CommScope Holding,1.0
+132,330,Conagra Brands,Conagra Brands,1.0
+133,76,ConocoPhillips,ConocoPhillips,0.9
+134,275,Consolidated Edison,Consolidated Edison,0.88
+135,402,Constellation Brands,Constellation Brands,1.0
+136,262,Corning,Corning,0.9
+137,236,Corteva,Corteva,1.0
+138,10,Costco Wholesale,Costco Wholesale,1.0
+139,285,CrownHoldings,CrownHoldings,1.0
+139,470,CrownHoldings,Xerox Holdings,0.88
+140,148,Cummins,Cummins,1.0
+141,123,D.R. Horton,D.R. Horton,0.88
+142,343,DCP Midstream,DCP Midstream,0.9
+143,204,DISH Network,DISH Network,1.0
+144,238,DTEEnergy,DTEEnergy,0.88
+145,206,DXC Technology,DXC Technology,0.88
+146,322,DaVita,DaVita,1.0
+148,117,Danaher,Danaher,1.0
+150,83,Deere,Deere,1.0
+151,345,Delek US Holdings,Delek US Holdings,0.9
+152,30,Dell Technologies,Dell Technologies,1.0
+152,178,Dell Technologies,Lumen Technologies,0.88
+152,209,Dell Technologies,Uber Technologies,0.88
+153,112,Delta Air Lines,Delta Air Lines,1.0
+154,308,Devon Energy,Devon Energy,0.9
+155,478,Diamondback Energy,Diamondback Energy,0.9
+156,306,Dick's Sporting Goods,Dick's Sporting Goods,1.0
+157,487,Dillard's,Dillard's,0.88
+159,105,Dollar General,Dollar General,1.0
+160,136,Dollar Tree,Dollar Tree,1.0
+161,256,Dominion Energy,Dominion Energy,1.0
+163,63,Dow,Dow,1.0
+164,212,DuPont,DuPont,1.0
+165,144,Duke Energy,Duke Energy,1.0
+167,192,EOG Resources,EOG Resources,0.9
+168,348,Eastman Chemical,Eastman Chemical,1.0
+169,292,Ecolab,Ecolab,0.88
+170,199,Edison International,WESCO International,0.88
+170,242,Edison International,Edison International,1.0
+170,291,Edison International,Baxter International,0.88
+171,19,Elevance Health,Elevance Health,1.0
+172,121,EliLilly,EliLilly,1.0
+173,198,Emerson Electric,Emerson Electric,0.88
+174,484,EnLink Midstream,EnLink Midstream,0.9
+179,335,Equitable Holdings,Equitable Holdings,0.9
+180,367,Erie Insurance Group,Erie Insurance Group,1.0
+181,227,Estée Lauder,Estée Lauder,1.0
+182,357,Eversource Energy,Eversource Energy,1.0
+185,224,Expeditors Intl. of Washington,Expeditors Intl. of Washington,1.0
+186,5,Exxon Mobil,Exxon Mobil,1.0
+187,417,FMGlobal,FMGlobal,0.88
+188,32,Fannie Mae,Fannie Mae,1.0
+189,263,Farmers Insurance Exchange,Farmers Insurance Exchange,0.88
+190,38,FedEx,FedEx,0.88
+191,237,Fidelity National Financial,Fidelity National Financial,1.0
+192,267,"Fidelity National Information
+Services","Fidelity National Information
+Services",1.0
+193,414,Fifth Third Bancorp,Fifth Third Bancorp,1.0
+194,382,First American Financial,First American Financial,1.0
+196,226,Fiserv,Fiserv,1.0
+197,258,Fluor,Fluor,1.0
+198,389,Foot Locker,Foot Locker,1.0
+199,21,Ford Motor,Ford Motor,1.0
+200,443,Fortune Brands Home & Security,Fortune Brands Home & Security,1.0
+201,286,Fox,Fox,1.0
+202,410,Franklin Resources,Franklin Resources,1.0
+204,156,Freeport-McMoRan,Freeport-McMoRan,1.0
+205,68,Frontier Communications,Charter Communications,1.0
+205,498,Frontier Communications,Frontier Communications,0.88
+206,290,GXO Logistics,XPO Logistics,1.0
+206,429,GXO Logistics,GXO Logistics,1.0
+207,219,Gap,Gap,1.0
+208,93,General Dynamics,General Dynamics,0.88
+209,47,General Electric,General Electric,1.0
+210,24,General Mills,General Motors,0.88
+210,200,General Mills,General Mills,1.0
+211,24,General Motors,General Motors,1.0
+211,200,General Motors,General Mills,0.88
+213,433,Genworth Financial,Genworth Financial,0.9
+214,128,Gilead Sciences,Gilead Sciences,1.0
+217,56,Goldman Sachs Group,Goldman Sachs Group,1.0
+219,465,Graphic Packaging Holding,Graphic Packaging Holding,1.0
+220,47,Graybar Electric,General Electric,0.88
+221,272,Group 1 Automotive,Group 1 Automotive,1.0
+223,61,HCAHealthcare,HCAHealthcare,0.9
+225,58,HP,HP,0.88
+226,240,Halliburton,Halliburton,1.0
+227,457,Hanesbrands,Hanesbrands,0.88
+228,159,Hartford Financial Services Group,Hartford Financial Services Group,1.0
+229,495,Hasbro,Hasbro,0.9
+230,298,Henry Schein,Henry Schein,1.0
+232,461,Hertz Global Holdings,Hertz Global Holdings,0.88
+233,446,Hess,Hess,0.9
+234,122,Hewlett Packard Enterpri,Hewlett Packard Enterpri,1.0
+235,16,Home Depot,Home Depot,1.0
+236,104,Honeywell International,Honeywell International,1.0
+236,120,Honeywell International,Mondelez International,0.88
+237,326,Hormel Foods,Hormel Foods,1.0
+238,39,Humana,Humana,1.0
+240,409,Huntsman,Huntsman,0.9
+241,48,IBM,IBM,1.0
+242,327,Icahn Enterprises,Icahn Enterprises,1.0
+243,251,Illinois Tool Works,Illinois Tool Works,0.88
+244,475,Ingredion,Ingredion,1.0
+246,45,Intel,Intel,1.0
+248,321,International Flavors & Fragrances,International Flavors & Fragrances,1.0
+249,163,International Paper,International Paper,1.0
+250,352,Interpublic Group,Interpublic Group,1.0
+251,365,Intuit,Intuit,0.9
+252,310,J.B. Hunt Transport Services,J.B. Hunt Transport Services,1.0
+253,425,J.M. Smucker,J.M. Smucker,1.0
+254,23,JPMorgan Chase,JPMorgan Chase,1.0
+255,118,Jabil,Jabil,0.88
+257,261,Jacobs Engineering Group,Jacobs Engineering Group,1.0
+258,386,Jefferies Financial Group,Jefferies Financial Group,0.9
+258,463,Jefferies Financial Group,Securian Financial Group,0.88
+259,36,Johnson & Johnson,Johnson & Johnson,0.88
+260,302,Jones Financial (Edward Jones),Jones Financial (Edward Jones),0.88
+261,184,Jones Lang LaSalle,Jones Lang LaSalle,0.9
+262,459,KBR,KBR,1.0
+264,473,KLA,KLA,1.0
+265,257,Kellogg,Kellogg,0.88
+266,295,Keurig Dr Pepper,Keurig Dr Pepper,1.0
+268,181,Kimberly-Clark,Kimberly-Clark,0.88
+269,222,Kinder Morgan,Kinder Morgan,1.0
+270,182,Kohl's,Kohl's,1.0
+271,138,Kraft Heinz,Kraft Heinz,0.88
+272,20,Kroger,Kroger,1.0
+273,205,L3Harris Technologies,L3Harris Technologies,1.0
+276,229,Laboratory Corp. of America,Laboratory Corp. of America,1.0
+277,249,Lam Research,Lam Research,0.9
+279,490,Landstar System,Landstar System,0.9
+281,273,Leidos Holdings,Leidos Holdings,1.0
+281,470,Leidos Holdings,Xerox Holdings,0.88
+282,130,Lennar,Lennar,0.9
+283,325,Liberty Media,Liberty Media,0.9
+285,186,Lincoln National,Lincoln National,0.9
+286,157,Lithia Motors,Lithia Motors,1.0
+287,54,Lockheed Martin,Lockheed Martin,1.0
+288,245,Loews,Loews,0.9
+290,30,Lumen Technologies,Dell Technologies,0.88
+290,57,Lumen Technologies,Raytheon Technologies,0.88
+290,178,Lumen Technologies,Lumen Technologies,1.0
+290,209,Lumen Technologies,Uber Technologies,0.88
+291,363,MGM Resorts International,MGM Resorts International,1.0
+292,143,Macy's,Macy's,0.88
+294,18,Marathon Petroleum,Marathon Petroleum,1.0
+295,288,Markel,Markel,0.9
+296,120,Marriott International,Mondelez International,0.88
+296,269,Marriott International,Marriott International,1.0
+297,176,Marsh & McLennan,Marsh & McLennan,0.88
+298,428,MasTec,MasTec,1.0
+299,412,Masco,Masco,0.88
+300,99,Massachusetts Mutual Life,Massachusetts Mutual Life,0.9
+301,189,Mastercard,Mastercard,0.88
+302,151,McDonald's,McDonald's,0.88
+303,8,McKesson,McKesson,0.88
+304,70,Merck,Merck,0.88
+305,49,MetLife,MetLife,1.0
+306,26,Meta Platforms,Meta Platforms,1.0
+307,126,Micron Technology,Micron Technology,1.0
+308,13,Microsoft,Microsoft,1.0
+309,194,Moderna,Moderna,0.9
+310,305,Mohawk Industries,Thor Industries,0.88
+310,329,Mohawk Industries,Mohawk Industries,1.0
+311,124,Molina Healthcare,Molina Healthcare,1.0
+312,351,Molson Coors Beverage,Molson Coors Beverage,0.88
+313,104,Mondelez International,Honeywell International,0.88
+313,120,Mondelez International,Mondelez International,0.88
+313,269,Mondelez International,Marriott International,0.88
+314,60,Morgan Stanley,Morgan Stanley,1.0
+316,422,Motorola Solutions,Motorola Solutions,1.0
+317,239,Murphy USA,Murphy USA,1.0
+318,323,Mutual of Omaha Insurance,Mutual of Omaha Insurance,1.0
+319,466,NCR,NCR,1.0
+320,132,NRG Energy,NRG Energy,1.0
+320,450,NRG Energy,CMS Energy,0.88
+321,388,NVR,NVR,1.0
+323,114,Netflix,Netflix,1.0
+324,71,New York Life Insurance,New York Life Insurance,1.0
+325,347,Newell Brands,Newell Brands,1.0
+326,307,Newmont,Newmont,0.88
+327,373,News Corp.,News Corp.,0.9
+328,214,NextEra Energy,NextEra Energy,0.88
+329,82,Nike,Nike,0.88
+330,244,Nordstrom,Nordstrom,1.0
+331,331,Norfolk Southern,Norfolk Southern,1.0
+332,492,Northern Trust,Northern Trust,1.0
+333,100,Northrop Grumman,Northrop Grumman,1.0
+334,96,Northwestern Mutual,Northwestern Mutual,0.9
+336,133,Nvidia,Nvidia,1.0
+337,278,O'Reilly Automotive,O'Reilly Automotive,1.0
+338,378,ODP,ODP,0.9
+339,482,ON Semiconductor,ON Semiconductor,1.0
+340,134,Occidental Petroleum,Occidental Petroleum,1.0
+341,375,Old Republic International,Old Republic International,1.0
+343,254,Omnicom Group,Omnicom Group,1.0
+344,223,Oneok,Oneok,0.9
+345,424,Opendoor Technologies,Opendoor Technologies,0.9
+346,90,Oracle,Oracle,0.88
+347,427,Oshkosh,Oshkosh,0.9
+348,253,Otis Worldwide,Otis Worldwide,1.0
+349,399,Ovintiv,Ovintiv,0.9
+350,360,Owens & Minor,Owens & Minor,1.0
+351,407,Owens Corning,Owens Corning,1.0
+352,129,PBF Energy,PBF Energy,0.9
+352,132,PBF Energy,NRG Energy,0.88
+352,450,PBF Energy,CMS Energy,0.88
+353,167,PG&E,PG&E,0.88
+354,177,PNC Financial Services,PNC Financial Services,1.0
+355,305,PPG Industries,Thor Industries,0.88
+355,400,PPG Industries,UFP Industries,0.88
+357,384,PVH,PVH,0.88
+358,150,Paccar,Paccar,0.9
+362,252,Parker-Hannifin,Parker-Hannifin,1.0
+363,142,PayPal Holdings,PayPal Holdings,1.0
+365,44,PepsiCo,PepsiCo,1.0
+366,111,Performance Food Group,Performance Food Group,1.0
+367,312,Peter Kiewit Sons’,Peter Kiewit Sons’,1.0
+368,42,Pfizer,Pfizer,1.0
+370,28,Phillips 66,Phillips 66,1.0
+371,247,Pioneer Natural Resources,Pioneer Natural Resources,0.9
+374,50,Principal Financial,Prudential Financial,0.88
+374,255,Principal Financial,Principal Financial,1.0
+375,46,Procter & Gamble,Procter & Gamble,1.0
+376,78,Progressive,Progressive,0.88
+377,50,Prudential Financial,Prudential Financial,1.0
+377,255,Prudential Financial,Principal Financial,0.88
+378,361,Public Service Enterprise Group,Public Service Enterprise Group,1.0
+379,75,Publix Super Markets,Publix Super Markets,1.0
+380,266,PulteGroup,PulteGroup,0.9
+381,106,Qualcomm,Qualcomm,1.0
+383,341,Quest Diagnostics,Quest Diagnostics,0.88
+384,264,Qurate Retail,Qurate Retail,1.0
+385,355,Raymond James Financial,Raymond James Financial,0.88
+386,57,Raytheon Technologies,Raytheon Technologies,1.0
+386,178,Raytheon Technologies,Lumen Technologies,0.88
+387,230,Regeneron Pharmaceuticals,Regeneron Pharmaceuticals,0.9
+388,488,Regions Financial,Regions Financial,1.0
+389,221,Reinsurance Group of,Reinsurance Group of,0.9
+390,260,Reliance Steel & Aluminum,Reliance Steel & Aluminum,0.9
+391,328,Republic Services,Republic Services,1.0
+392,147,Rite Aid,Rite Aid,0.88
+393,493,Robert Half International,Robert Half International,1.0
+394,281,Rocket Companies,Rocket Companies,1.0
+395,471,Rockwell Automation,Rockwell Automation,1.0
+396,496,Roper Technologies,Roper Technologies,0.9
+397,188,Ross Stores,Ross Stores,1.0
+399,416,S&P Global,S&P Global,1.0
+400,135,Salesforce,Salesforce,1.0
+401,481,Sanmina,Sanmina,1.0
+402,455,Science Applications International,Science Applications International,0.88
+403,381,Seaboard,Seaboard,0.88
+404,463,Securian Financial Group,Securian Financial Group,1.0
+405,287,Sempra,Sempra,1.0
+406,174,Sherwin-Williams,Sherwin-Williams,1.0
+407,299,Sonic Automotive,Sonic Automotive,0.9
+409,233,Southwest Airlines,Southwest Airlines,1.0
+410,485,Southwestern Energy,Southwestern Energy,0.9
+411,391,SpartanNash,SpartanNash,1.0
+412,211,Stanley Black & Decker,Stanley Black & Decker,1.0
+413,119,Starbucks,Starbucks,1.0
+414,41,State Farm Insurance,State Farm Insurance,1.0
+415,315,State Street,State Street,1.0
+416,195,Steel Dynamics,Steel Dynamics,1.0
+417,86,StoneX Group,StoneX Group,0.9
+418,213,Stryker,Stryker,0.88
+419,235,Synchrony Financial,Synchrony Financial,1.0
+420,69,Sysco,Sysco,1.0
+421,442,T. Rowe Price,T. Rowe Price,0.9
+422,108,TD Synnex,TD Synnex,0.88
+423,89,TIAA,TIAA,1.0
+424,74,TJX,TJX,1.0
+425,215,Targa Resources,Targa Resources,0.9
+426,31,Target,Target,1.0
+427,452,Taylor Morrison Home,Taylor Morrison Home,0.9
+428,180,Tenet Healthcare,Tenet Healthcare,1.0
+429,201,Tenneco,Tenneco,0.88
+430,64,Tesla,Tesla,1.0
+431,197,Texas Instruments,Texas Instruments,1.0
+432,301,Textron,Textron,0.88
+434,91,Thermo Fisher Scientific,Thermo Fisher Scientific,1.0
+435,305,Thor Industries,Thor Industries,0.9
+436,350,Thrivent Financial for,Thrivent Financial for,1.0
+438,396,Toll Brothers,Toll Brothers,0.88
+439,293,Tractor Supply,Tractor Supply,1.0
+440,460,TravelCenters of America,TravelCenters of America,1.0
+442,154,Truist Financial,Truist Financial,1.0
+443,80,Tyson Foods,Tyson Foods,1.0
+444,149,U.S. Bancorp,U.S. Bancorp,1.0
+445,305,UFP Industries,Thor Industries,0.88
+445,400,UFP Industries,UFP Industries,0.88
+447,33,UPS,UPS,1.0
+448,116,US Foods Holding,US Foods Holding,0.88
+450,30,Uber Technologies,Dell Technologies,0.88
+450,178,Uber Technologies,Lumen Technologies,0.88
+450,209,Uber Technologies,Uber Technologies,1.0
+451,401,Ulta Beauty,Ulta Beauty,1.0
+452,162,Union Pacific,Union Pacific,1.0
+453,145,United Airlines Holdings,United Airlines Holdings,1.0
+454,131,United Natural Foods,United Natural Foods,0.9
+456,171,United States Steel,United States Steel,1.0
+457,4,UnitedHealth Group,UnitedHealth Group,0.88
+458,368,Univar Solutions,Univar Solutions,0.9
+460,316,Unum Group,Unum Group,0.9
+461,379,VF,VF,1.0
+462,29,Valero Energy,Valero Energy,1.0
+463,476,Veritiv,Veritiv,0.9
+464,22,Verizon Communications,Verizon Communications,1.0
+464,68,Verizon Communications,Charter Communications,0.88
+465,447,Vertex Pharmaceuticals,Vertex Pharmaceuticals,0.9
+466,203,Viatris,Viatris,1.0
+470,370,W.R. Berkley,W.R. Berkley,1.0
+471,283,W.W. Grainger,W.W. Grainger,0.88
+472,415,WEC Energy Group,WEC Energy Group,1.0
+473,199,WESCO International,WESCO International,0.9
+474,17,Walgreens Boots Alliance,Walgreens Boots Alliance,1.0
+475,0,Walmart,Walmart,1.0
+476,52,Walt Disney,Walt Disney,1.0
+477,309,Warner Bros. Discovery,Warner Bros. Discovery,0.9
+479,274,Wayfair,Wayfair,0.9
+480,40,Wells Fargo,Wells Fargo,0.88
+481,191,WestRock,WestRock,0.88
+482,216,Western Digital,Western Digital,1.0
+483,371,Western and Southen Financial Group,Western and Southen Financial Group,0.9
+484,438,Westinghouse Air Break Technologies,Westinghouse Air Break Technologies,0.88
+486,353,Weyerhaeuser,Weyerhaeuser,0.9
+487,161,Whirlpool,Whirlpool,1.0
+489,419,Williams-Sonoma,Williams-Sonoma,1.0
+491,290,XPO Logistics,XPO Logistics,1.0
+491,429,XPO Logistics,GXO Logistics,1.0
+492,277,Xcel Energy,Xcel Energy,1.0
+493,273,Xerox Holdings,Leidos Holdings,0.88
+493,285,Xerox Holdings,CrownHoldings,0.88
+493,470,Xerox Holdings,Xerox Holdings,1.0
+494,489,Yum Brands,Yum Brands,1.0
+495,358,Yum China Holdings,Yum China Holdings,1.0
+496,437,Zimmer Biomet Holdings,Zimmer Biomet Holdings,1.0
+497,439,Zoetis,Zoetis,1.0
+498,300,eBay,eBay,1.0

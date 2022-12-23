@@ -1,0 +1,252 @@
+item,itemLabel
+http://www.wikidata.org/entity/Q5289,.NET Framework
+http://www.wikidata.org/entity/Q29120,Apache Hadoop
+http://www.wikidata.org/entity/Q33079,Java Web Start
+http://www.wikidata.org/entity/Q83994,Spring Integration
+http://www.wikidata.org/entity/Q143035,CppUnit
+http://www.wikidata.org/entity/Q151778,PRADO Framework
+http://www.wikidata.org/entity/Q158833,.NET Micro Framework
+http://www.wikidata.org/entity/Q189475,Laminas
+http://www.wikidata.org/entity/Q207656,Apache Wave
+http://www.wikidata.org/entity/Q223449,Apache CXF
+http://www.wikidata.org/entity/Q239084,Windows Presentation Foundation
+http://www.wikidata.org/entity/Q261595,Windows Communication Foundation
+http://www.wikidata.org/entity/Q284312,aRts
+http://www.wikidata.org/entity/Q286530,ABAP Unit
+http://www.wikidata.org/entity/Q290508,ADO.NET
+http://www.wikidata.org/entity/Q295819,ANX (Framework)
+http://www.wikidata.org/entity/Q302022,ActiveX
+http://www.wikidata.org/entity/Q379635,Advanced Linux Sound Architecture
+http://www.wikidata.org/entity/Q379683,Jakarta Cactus
+http://www.wikidata.org/entity/Q537288,Wiring
+http://www.wikidata.org/entity/Q568694,PEAR
+http://www.wikidata.org/entity/Q569280,Java Authentication and Authorization Service
+http://www.wikidata.org/entity/Q613361,Windows Forms
+http://www.wikidata.org/entity/Q616749,Apache Forrest
+http://www.wikidata.org/entity/Q616955,Apache Muse
+http://www.wikidata.org/entity/Q641368,Xtext
+http://www.wikidata.org/entity/Q646928,Modular Audio Recognition Framework
+http://www.wikidata.org/entity/Q662200,Component Object Model
+http://www.wikidata.org/entity/Q681360,OpenCL
+http://www.wikidata.org/entity/Q683179,Insight Segmentation and Registration Toolkit
+http://www.wikidata.org/entity/Q720314,Spring Framework
+http://www.wikidata.org/entity/Q722656,Mono
+http://www.wikidata.org/entity/Q742738,Assistive Technology Service Provider Interface
+http://www.wikidata.org/entity/Q746599,Prototype JavaScript Framework
+http://www.wikidata.org/entity/Q747866,Hibernate
+http://www.wikidata.org/entity/Q752522,Selenium
+http://www.wikidata.org/entity/Q773217,Apache Shiro
+http://www.wikidata.org/entity/Q847675,JUnit
+http://www.wikidata.org/entity/Q851939,Entity Framework
+http://www.wikidata.org/entity/Q906328,Distributed Component Object Model
+http://www.wikidata.org/entity/Q910119,DUnit
+http://www.wikidata.org/entity/Q920313,iAd
+http://www.wikidata.org/entity/Q941283,S60
+http://www.wikidata.org/entity/Q969382,Twisted
+http://www.wikidata.org/entity/Q994371,Object Windows Library
+http://www.wikidata.org/entity/Q1037598,WorldForge
+http://www.wikidata.org/entity/Q1051988,Cocoa
+http://www.wikidata.org/entity/Q1067615,Windows Driver Frameworks
+http://www.wikidata.org/entity/Q1140664,IP Multimedia Subsystem
+http://www.wikidata.org/entity/Q1153684,.NET Compact Framework
+http://www.wikidata.org/entity/Q1154450,Windows Workflow Foundation
+http://www.wikidata.org/entity/Q1156326,OSGi
+http://www.wikidata.org/entity/Q1181833,Decibel
+http://www.wikidata.org/entity/Q1206778,device mapper
+http://www.wikidata.org/entity/Q1227488,Direct Rendering Infrastructure
+http://www.wikidata.org/entity/Q1246922,Dynamic Kernel Module Support
+http://www.wikidata.org/entity/Q1251023,Wakanda
+http://www.wikidata.org/entity/Q1329009,Windows Driver Model
+http://www.wikidata.org/entity/Q1347837,Equinox
+http://www.wikidata.org/entity/Q1369730,pluggable authentication module
+http://www.wikidata.org/entity/Q1412851,Geant4
+http://www.wikidata.org/entity/Q1438843,TYPO3 Flow
+http://www.wikidata.org/entity/Q1466983,Zefext
+http://www.wikidata.org/entity/Q1525915,Cocos2d-x
+http://www.wikidata.org/entity/Q1663673,PHPUnit
+http://www.wikidata.org/entity/Q1684174,Java Agent Development Framework
+http://www.wikidata.org/entity/Q1701987,Q1701987
+http://www.wikidata.org/entity/Q1706815,Apache Isis
+http://www.wikidata.org/entity/Q1713118,Java platform
+http://www.wikidata.org/entity/Q1747342,NUnit
+http://www.wikidata.org/entity/Q1853309,Oracle Application Development Framework
+http://www.wikidata.org/entity/Q1871250,IBM Lotus Expeditor
+http://www.wikidata.org/entity/Q1920156,GEOM
+http://www.wikidata.org/entity/Q1941695,Mockito
+http://www.wikidata.org/entity/Q2008242,OVal (Framework)
+http://www.wikidata.org/entity/Q2095962,Puppet
+http://www.wikidata.org/entity/Q2160022,Robot Framework
+http://www.wikidata.org/entity/Q2160077,Robot Operating System
+http://www.wikidata.org/entity/Q2277207,Shark Framework
+http://www.wikidata.org/entity/Q2449047,Kohana
+http://www.wikidata.org/entity/Q2550704,Linux Security Modules
+http://www.wikidata.org/entity/Q2578643,ASP.NET AJAX
+http://www.wikidata.org/entity/Q2628895,Cocoa Touch
+http://www.wikidata.org/entity/Q2823633,ActionScript Foundry
+http://www.wikidata.org/entity/Q2849803,AngularJS
+http://www.wikidata.org/entity/Q2900734,Business Information Services Library
+http://www.wikidata.org/entity/Q2994520,ZK
+http://www.wikidata.org/entity/Q3032167,KumbiaPHP
+http://www.wikidata.org/entity/Q3082810,Text Template Transformation Toolkit
+http://www.wikidata.org/entity/Q3093292,GNU Mailutils
+http://www.wikidata.org/entity/Q3176892,Jelix
+http://www.wikidata.org/entity/Q3193589,Q3193589
+http://www.wikidata.org/entity/Q3349285,Odis
+http://www.wikidata.org/entity/Q3375336,Performance Application Programming Interface
+http://www.wikidata.org/entity/Q3410919,PureMVC
+http://www.wikidata.org/entity/Q3486854,Federated Wiki
+http://www.wikidata.org/entity/Q3515466,Tapioca
+http://www.wikidata.org/entity/Q3547212,UI Automation
+http://www.wikidata.org/entity/Q3598981,3DSlicer
+http://www.wikidata.org/entity/Q3700338,Check
+http://www.wikidata.org/entity/Q29475595,Xposed Framework
+http://www.wikidata.org/entity/Q31838037,Noise Protocol Framework
+http://www.wikidata.org/entity/Q34978225,Chainer
+http://www.wikidata.org/entity/Q39072787,Flutter
+http://www.wikidata.org/entity/Q45319394,Apple HomeKit
+http://www.wikidata.org/entity/Q47272313,Grilo
+http://www.wikidata.org/entity/Q47272441,GNOME Online Accounts
+http://www.wikidata.org/entity/Q48703087,TensorFlow Lite
+http://www.wikidata.org/entity/Q54449900,RoboComp
+http://www.wikidata.org/entity/Q54862855,Springshare Platform
+http://www.wikidata.org/entity/Q55696286,Data Transfer Project
+http://www.wikidata.org/entity/Q56313347,NW.js
+http://www.wikidata.org/entity/Q56322397,Minecraft Forge
+http://www.wikidata.org/entity/Q56861590,ontop
+http://www.wikidata.org/entity/Q61075387,Alembic
+http://www.wikidata.org/entity/Q61296121,LITIengine
+http://www.wikidata.org/entity/Q61778821,Serde
+http://www.wikidata.org/entity/Q63379120,.NET Framework 4.0
+http://www.wikidata.org/entity/Q65647244,distributed multimedia communications platform
+http://www.wikidata.org/entity/Q70490607,Qiskit
+http://www.wikidata.org/entity/Q73516071,Andrew Toolkit
+http://www.wikidata.org/entity/Q76183376,GNU/EDMA
+http://www.wikidata.org/entity/Q76186409,GNU Serveez
+http://www.wikidata.org/entity/Q85791254,Orleans
+http://www.wikidata.org/entity/Q96374408,Capsicum
+http://www.wikidata.org/entity/Q96473346,ProseMirror
+http://www.wikidata.org/entity/Q96473482,PubSweet
+http://www.wikidata.org/entity/Q98545174,Drovorub
+http://www.wikidata.org/entity/Q101208469,HAL interface definition language
+http://www.wikidata.org/entity/Q101415387,FLAIR
+http://www.wikidata.org/entity/Q104819589,Q104819589
+http://www.wikidata.org/entity/Q104866087,Confidential Consortium Framework
+http://www.wikidata.org/entity/Q104887915,Q104887915
+http://www.wikidata.org/entity/Q105245440,gatsbyjs
+http://www.wikidata.org/entity/Q105319881,PolyAnalyst
+http://www.wikidata.org/entity/Q107030225,Clap
+http://www.wikidata.org/entity/Q108370235,MediaWiki shell framework
+http://www.wikidata.org/entity/Q108939169,Package Support Framework
+http://www.wikidata.org/entity/Q109310071,Hangfire
+http://www.wikidata.org/entity/Q109612166,Vanilla JS
+http://www.wikidata.org/entity/Q109973122,LiteX
+http://www.wikidata.org/entity/Q110301698,Serveez-MG
+http://www.wikidata.org/entity/Q111207681,Q111207681
+http://www.wikidata.org/entity/Q112144378,Omniverse
+http://www.wikidata.org/entity/Q112675161,Q112675161
+http://www.wikidata.org/entity/Q112961433,Skyrim Script Extender
+http://www.wikidata.org/entity/Q113639939,Symbiota
+http://www.wikidata.org/entity/Q114245787,Dark
+http://www.wikidata.org/entity/Q114865061,Shizuku
+http://www.wikidata.org/entity/Q114876263,Compose Multiplatform
+http://www.wikidata.org/entity/Q114903881,LSPosed
+http://www.wikidata.org/entity/Q3883431,Open Source Media Framework
+http://www.wikidata.org/entity/Q4036911,Dynamic languages toolkit
+http://www.wikidata.org/entity/Q4039599,Google Test
+http://www.wikidata.org/entity/Q4040654,Higgins project
+http://www.wikidata.org/entity/Q4044219,Microsoft Active Accessibility
+http://www.wikidata.org/entity/Q4049518,SimpleTest
+http://www.wikidata.org/entity/Q4050893,Text Services Framework
+http://www.wikidata.org/entity/Q4284656,Information Services Procurement Library
+http://www.wikidata.org/entity/Q4385601,TestNG
+http://www.wikidata.org/entity/Q4682493,Adhearsion
+http://www.wikidata.org/entity/Q4778897,Apache Avalon
+http://www.wikidata.org/entity/Q4806941,Asigra Cloud Backup
+http://www.wikidata.org/entity/Q4820732,User Mode Driver Framework
+http://www.wikidata.org/entity/Q4836580,BSD Authentication
+http://www.wikidata.org/entity/Q4879397,Bedrock
+http://www.wikidata.org/entity/Q4889135,Openframe
+http://www.wikidata.org/entity/Q4907033,Bigtop
+http://www.wikidata.org/entity/Q4914668,BioUML
+http://www.wikidata.org/entity/Q5016156,Cactus Framework
+http://www.wikidata.org/entity/Q5025848,CamelBones
+http://www.wikidata.org/entity/Q5032384,Canigó
+http://www.wikidata.org/entity/Q5033556,Cantata++
+http://www.wikidata.org/entity/Q5113822,Chromium Embedded Framework
+http://www.wikidata.org/entity/Q5139772,Cocoa#
+http://www.wikidata.org/entity/Q5191516,csUnit
+http://www.wikidata.org/entity/Q5427309,FUnit
+http://www.wikidata.org/entity/Q5440696,Federated Portal Network
+http://www.wikidata.org/entity/Q5441121,Fedora Unified Network Controller
+http://www.wikidata.org/entity/Q5456301,FixMyStreet
+http://www.wikidata.org/entity/Q5515074,GXA
+http://www.wikidata.org/entity/Q5924558,HtmlUnit
+http://www.wikidata.org/entity/Q5924576,HttpUnit
+http://www.wikidata.org/entity/Q6059814,Invenio
+http://www.wikidata.org/entity/Q6107820,Netty
+http://www.wikidata.org/entity/Q6161738,Jasmine
+http://www.wikidata.org/entity/Q6298668,Jtest
+http://www.wikidata.org/entity/Q6325568,KAoS
+http://www.wikidata.org/entity/Q6549102,lime
+http://www.wikidata.org/entity/Q6555077,Linux PAM
+http://www.wikidata.org/entity/Q6794171,Maverick Framework
+http://www.wikidata.org/entity/Q6840085,Microsoft Automatic Graph Layout
+http://www.wikidata.org/entity/Q6840232,Microsoft Sync Framework
+http://www.wikidata.org/entity/Q6930567,MuPDF
+http://www.wikidata.org/entity/Q6954720,OpenFL
+http://www.wikidata.org/entity/Q6955678,NUnitAsp
+http://www.wikidata.org/entity/Q7095823,OpenMDX
+http://www.wikidata.org/entity/Q7095841,OpenPAM
+http://www.wikidata.org/entity/Q7099306,Oracle Multimedia
+http://www.wikidata.org/entity/Q7119113,pFUnit
+http://www.wikidata.org/entity/Q7135972,Parasoft
+http://www.wikidata.org/entity/Q7186771,Phoenix (compiler framework)
+http://www.wikidata.org/entity/Q7265613,QUnit
+http://www.wikidata.org/entity/Q7272693,Quixote
+http://www.wikidata.org/entity/Q7395059,SUnit
+http://www.wikidata.org/entity/Q7455975,RDF4J
+http://www.wikidata.org/entity/Q7549869,SOAtest
+http://www.wikidata.org/entity/Q7573619,Apache Spark
+http://www.wikidata.org/entity/Q7705690,Test::More
+http://www.wikidata.org/entity/Q7862918,U-Prove
+http://www.wikidata.org/entity/Q7922736,Vert.x
+http://www.wikidata.org/entity/Q7932391,Vine Toolkit
+http://www.wikidata.org/entity/Q7936574,Visual Studio Lab Management
+http://www.wikidata.org/entity/Q8044860,xmlbeansxx
+http://www.wikidata.org/entity/Q8052438,yeoman
+http://www.wikidata.org/entity/Q10851258,Kernel-Mode Driver Framework
+http://www.wikidata.org/entity/Q10853917,Lego Mindstorms
+http://www.wikidata.org/entity/Q11231802,MOAP
+http://www.wikidata.org/entity/Q11239623,Pirka
+http://www.wikidata.org/entity/Q13212249,.NET Framework 3.0
+http://www.wikidata.org/entity/Q16321264,libGDX
+http://www.wikidata.org/entity/Q16689197,WinJS
+http://www.wikidata.org/entity/Q16958615,jPlayer
+http://www.wikidata.org/entity/Q16972750,Hamcrest
+http://www.wikidata.org/entity/Q16973475,KDE Frameworks
+http://www.wikidata.org/entity/Q17027461,GlassFish HK2
+http://www.wikidata.org/entity/Q17048771,xUnit.net
+http://www.wikidata.org/entity/Q17051113,Codename One
+http://www.wikidata.org/entity/Q17122950,Unit.js
+http://www.wikidata.org/entity/Q17576071,Ionic
+http://www.wikidata.org/entity/Q18346290,Mocha
+http://www.wikidata.org/entity/Q19442328,Eclipse Sirius
+http://www.wikidata.org/entity/Q20072429,Apache Stratos
+http://www.wikidata.org/entity/Q20712275,Spock
+http://www.wikidata.org/entity/Q20828517,Q20828517
+http://www.wikidata.org/entity/Q21041255,G'MIC
+http://www.wikidata.org/entity/Q21614124,Electron
+http://www.wikidata.org/entity/Q21622213,.NET
+http://www.wikidata.org/entity/Q22095753,Monaca
+http://www.wikidata.org/entity/Q22908571,Searchlight
+http://www.wikidata.org/entity/Q24284216,Google Daydream
+http://www.wikidata.org/entity/Q24834697,Entity Framework Core
+http://www.wikidata.org/entity/Q25052087,Sentilo Platform
+http://www.wikidata.org/entity/Q25100034,WatchKit
+http://www.wikidata.org/entity/Q27643379,Caffe
+http://www.wikidata.org/entity/Q27652904,Tape
+http://www.wikidata.org/entity/Q27867897,Cx Web Framework
+http://www.wikidata.org/entity/Q28136655,VIVO
+http://www.wikidata.org/entity/Q28154351,NanoSat MO Framework
+http://www.wikidata.org/entity/Q28447843,SAP BusinessObjects Lumira
+http://www.wikidata.org/entity/Q28457567,Everest

@@ -1,0 +1,14 @@
+Python,http://www.wikidata.org/entity/Q28865
+Java,http://www.wikidata.org/entity/Q251
+JavaScript,http://www.wikidata.org/entity/Q2005
+R,http://www.wikidata.org/entity/Q206904
+PHP,http://www.wikidata.org/entity/Q59
+C,http://www.wikidata.org/entity/Q15777
+Swift,http://www.wikidata.org/entity/Q17118377
+C#,http://www.wikidata.org/entity/Q2370
+C++,http://www.wikidata.org/entity/Q2407
+SQL,http://www.wikidata.org/entity/Q12976130
+Fortran,http://www.wikidata.org/entity/Q83303
+Pascal,http://www.wikidata.org/entity/Q81571
+HTML,http://www.wikidata.org/entity/Q8811
+CSS,http://www.wikidata.org/entity/Q46441

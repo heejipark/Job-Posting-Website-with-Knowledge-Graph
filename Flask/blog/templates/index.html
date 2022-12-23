@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Job postings</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/posting.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='css/company.css') }}" rel="stylesheet">
+<link href="{{ url_for('static', filename='javascript/posting.js') }}" rel="stylesheet">
+</head>
+<body>
+<header class="header-top center flex-row padding-2">
+    <div class="logo-container"> <a class="logo" href="/"> 
+        <h1>
+            <span>G</span><span>o</span> <span>J</span><span>o</span><span>b</span><span>s</span>
+          </h1>    
+    </a> </div>
+</header>
+<div class="wrapper center-x flex-row">
+    <div class="search-bar padding-1 max-1200 flex-row center-x margin-center">
+        <form class="flex-row center" action="/posting" method='POST'>
+            <div class="search_keyword">
+                <input class="input-lg mr-1" name="search_term" type="text" placeholder="Job Title, Keywords or Company">
+                <select class="input-sm mr-1" name="information_type" id="">
+                    <option class="input" name = "search_type" value="search_type"> Jobs</option>
+                    <option class="input" name="search_company" value="search_company"> Companies</option>
+                    <option class="input" name="search_skill" value="search_skill"> Skills</option>
+                    <option class="input" name="search_location" value="search_location"> Location</option>
+                </select>
+                <input class="btn btn-apply" type="submit" value="Search">
+                <a href='/salaryFilter'class="btn btn-apply">Filter</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="wrapper bg center-x flex-row">
+    <main class="mt-1 mb-4 max-1200 ">
+
+        <section class="job-listing__job-description" itemprop="description">
+            <h2 class="job-listing__job-description-title">Filter</h2>
+                <div style="text-align:center">
+                    <strong> <p class="job-title" style="font-size:15px;"> Filter by Company: <input type="checkbox" id="filter_by_company"  /> </p></strong> 
+                    <strong> <p class="job-title" style="font-size:15px;"> Filter by Job Type: <input type="checkbox" id="filter_by_job_type" /> </p></strong>
+                    <strong> <p class="job-title" style="font-size:15px;"> Filter by Area: <input type="checkbox" id="filter_by_area" /> </p></strong> 
+                    
+                    <form id='company_form' method="POST">
+                        {{ form_1.company_1 }}
+                        {{ form_1.company_2 }}
+                        {{ form_1.company_3 }}
+                        <input type="submit" id="submit_company" value="Done">
+                    </form>
+                
+                    <form id='job_type_form' method="POST">
+                        {{ form_2.job_type_1 }}
+                        {{ form_2.job_type_2 }}
+                        {{ form_2.job_type_3 }}
+                        <input type="submit" id="submit_job_type" value="Done">
+                    </form>
+                
+                    <form id='area_form' method="POST">
+                        {{ form_3.area_1 }}
+                        {{ form_3.area_2 }}
+                        {{ form_3.area_3 }}
+                        <input type="submit" id="submit_area" value="Done">
+                    </form>
+                
+                    <form method="POST">
+                        <input type="submit" id="submit_all" value="Submit">
+                        <input type="submit" id="refresh" value="Refresh">
+                    </form>
+                </div>
+
+        </section>
+
+        <section class="job-listing__job-description" itemprop="description">
+            <h2 class="job-listing__job-description-title">Visualization</h2>
+
+            <p style="text-align:justify">
+                <div class="display-flex" style="display: flex">
+                    <div id="my_dataviz_company">
+                        
+                    </div>
+                    <div id="my_dataviz_jobType">
+                        
+                    </div>
+                    <div id="my_dataviz_area"></div>
+                    </div>
+            </p>
+        </section>
+
+    
+    </main>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="{{url_for('static', filename='javascript/filter.js')}}"></script>
+    <script src="{{url_for('static', filename='javascript/plot.js')}}"></script>
+
+</body>

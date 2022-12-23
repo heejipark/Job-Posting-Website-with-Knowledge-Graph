@@ -1,0 +1,17 @@
+.NET,http://www.wikidata.org/entity/Q5289
+Hadoop,http://www.wikidata.org/entity/Q29120
+Spring Framework,http://www.wikidata.org/entity/Q720314
+CppUnit,http://www.wikidata.org/entity/Q143035
+OpenCL,http://www.wikidata.org/entity/Q681360
+Selenium,http://www.wikidata.org/entity/Q752522
+JUnit,http://www.wikidata.org/entity/Q847675
+OpenCV,http://www.wikidata.org/entity/Q165277
+Tensorflow,http://www.wikidata.org/entity/Q21447895
+Pytorch,http://www.wikidata.org/entity/Q47509047
+Spark,http://www.wikidata.org/entity/Q7573619
+Hive,http://www.wikidata.org/entity/Q4778914
+Redis,http://www.wikidata.org/entity/Q2136322
+Lucene,http://www.wikidata.org/entity/Q773196
+Elasticsearch,http://www.wikidata.org/entity/Q3050461
+Node.js,http://www.wikidata.org/entity/Q756100
+Linux,http://www.wikidata.org/entity/Q388

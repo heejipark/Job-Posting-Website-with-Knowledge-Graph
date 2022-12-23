@@ -1,0 +1,502 @@
+rank,company,website
+1,Walmart,https://www.walmart.com/
+2,Amazon,https://www.amazon.com/
+3,Apple,https://www.apple.com/
+4,CVS Health,https://www.cvshealth.com/
+5,UnitedHealth Group,https://www.unitedhealthgroup.com/
+6,Exxon Mobil,https://corporate.exxonmobil.com/
+7,Berkshire Hathaway,https://www.berkshirehathaway.com/
+8,Alphabet,https://abc.xyz/
+9,McKesson,https://www.mckesson.com/
+10,AmerisourceBergen,https://www.amerisourcebergen.com/
+11,Costco Wholesale,https://www.costco.com/
+12,Cigna,https://www.cigna.com/
+13,AT&T,https://www.att.com/
+14,Microsoft,https://www.microsoft.com/en-in
+15,Cardinal Health,https://www.cardinalhealth.com/en.html
+16,Chevron,https://www.chevron.com/
+17,Home Depot,https://www.homedepot.com/
+18,Walgreens Boots Alliance,https://www.walgreensbootsalliance.com/
+19,Marathon Petroleum,https://www.marathonpetroleum.com/
+20,Elevance Health,https://www.elevancehealth.com/
+21,Kroger,https://www.kroger.com/
+22,Ford Motor,https://www.ford.com/
+23,Verizon Communications,https://www.verizon.com/
+24,JPMorgan Chase,https://www.jpmorganchase.com/
+25,General Motors,https://www.gm.com/
+26,Centene,https://www.centene.com/
+27,Meta Platforms,https://about.facebook.com/
+28,Comcast,https://corporate.comcast.com/
+29,Phillips 66,https://www.phillips66.com/
+30,Valero Energy,https://www.valero.com/
+31,Dell Technologies,https://www.dell.com/en-in
+32,Target,https://www.target.com/
+33,Fannie Mae,https://www.fanniemae.com/
+34,UPS,https://www.ups.com/
+35,Lowe's,https://www.lowes.com/
+36,Bank of America,https://www.bankofamerica.com/
+37,Johnson & Johnson,https://www.jnj.com/
+38,Archer Daniels Midland,https://www.adm.com/
+39,FedEx,https://www.fedex.com/
+40,Humana,https://www.humana.com/
+41,Wells Fargo,https://www.wellsfargo.com/
+42,State Farm Insurance,https://www.statefarm.com/
+43,Pfizer,https://www.pfizer.com/
+44,Citigroup,https://www.citigroup.com/
+45,PepsiCo,https://www.pepsico.com/
+46,Intel,https://www.intel.com/
+47,Procter & Gamble,https://www.pg.co.uk/
+48,General Electric,https://www.ge.com/
+49,IBM,https://www.ibm.com/
+50,MetLife,https://www.metlife.com/
+51,Prudential Financial,https://www.prudential.com/
+52,Albertsons,https://www.albertsons.com/
+53,Walt Disney,https://thewaltdisneycompany.com/
+54,Energy Transfer,https://www.energytransfer.com/
+55,Lockheed Martin,https://www.lockheedmartin.com/
+56,Freddie Mac,https://www.freddiemac.com/
+57,Goldman Sachs Group,https://www.goldmansachs.com/
+58,Raytheon Technologies,https://www.rtx.com/
+59,HP,https://www.hp.com/
+60,Boeing,https://www.boeing.com/
+61,Morgan Stanley,https://www.morganstanley.com/
+62,HCAHealthcare,https://www.abbvie.com/
+63,AbbVie,https://www.abbvie.com/
+64,Dow,https://www.dow.com/
+65,Tesla,https://www.tesla.com/
+66,Allstate,https://www.allstate.com/
+67,AIG,https://www.aig.com/
+68,Best Buy,https://www.bestbuy.com/
+69,Charter Communications,https://corporate.charter.com/
+70,Sysco,https://www.sysco.com/
+71,Merck,https://www.merck.com/
+72,New York Life Insurance,https://www.newyorklife.com/
+73,Caterpillar,https://www.caterpillar.com/
+74,Cisco Systems,https://www.cisco.com/
+75,TJX,https://www.tjx.com/
+76,Publix Super Markets,https://www.publix.com/
+77,ConocoPhillips,https://www.conocophillips.com/
+78,Liberty Mutual Insurance Group,https://www.libertymutualgroup.com/
+79,Progressive,https://www.progressive.com/
+80,Nationwide,https://www.nationwide.com/
+81,Tyson Foods,https://www.tysonfoods.com/
+82,Bristol-Myers Squibb,https://www.bms.com/
+83,Nike,https://www.nike.com/
+84,Deere,https://www.deere.com/
+85,American Express,https://www.americanexpress.com/
+86,Abbott Laboratories,https://www.abbott.com/
+87,StoneX Group,https://www.stonex.com/
+88,Plains GP Holdings,https://www.plains.com/
+89,Enterprise Products,https://www.enterpriseproducts.com/
+90,TIAA,https://www.tiaa.org/
+91,Oracle,https://www.oracle.com/
+92,Thermo Fisher Scientific,https://www.thermofisher.com/
+93,Coca-Cola,https://www.coca-colacompany.com/
+94,General Dynamics,https://www.gd.com/
+95,CHS,https://www.chsinc.com/
+96,USAA,https://www.usaa.com/
+97,Northwestern Mutual,https://www.northwesternmutual.com/
+98,Nucor,https://www.nucor.com/
+99,Exelon,https://www.exeloncorp.com/
+100,Massachusetts Mutual Life,https://www.massmutual.com/
+101,Northrop Grumman,https://www.northropgrumman.com/
+102,3M,https://www.3m.com/
+103,Travelers,https://www.travelers.com/
+104,Arrow Electronics,https://www.arrow.com/
+105,Honeywell International,https://www.honeywell.com/
+106,Dollar General,https://www.dollargeneral.com/
+107,Qualcomm,https://www.qualcomm.com/
+108,Capital One Financial,https://www.capitalone.com/
+109,TD Synnex,https://www.tdsynnex.com/
+110,Philip Morris Internationé,https://www.pmi.com/
+111,World Fuel Services,https://www.wfscorp.com/
+112,Performance Food Group,https://www.pfgc.com/
+113,Delta Air Lines,https://www.delta.com/
+114,American Airlines Group,https://www.aa.com/
+115,Netflix,https://www.netflix.com/
+116,Paramount Global,https://www.paramount.com/
+117,US Foods Holding,https://www.usfoods.com/
+118,Danaher,https://www.danaher.com/
+119,Jabil,https://www.jabil.com/
+120,Starbucks,https://www.starbucks.com/
+121,Mondelez International,https://www.mondelezinternational.com/
+122,EliLilly,https://www.lilly.com/
+123,Hewlett Packard Enterpri,https://www.hpe.com/
+124,D.R. Horton,https://www.drhorton.com/
+125,Molina Healthcare,http://www.molinahealthcare.com/
+126,CBRE Group,https://www.cbre.com/
+127,Micron Technology,https://www.micron.com/
+128,Broadcom,https://www.broadcom.com/
+129,Gilead Sciences,https://www.gilead.com/
+130,PBF Energy,https://www.pbfenergy.com/
+131,Lennar,https://www.lennar.com/
+132,United Natural Foods,https://www.unfi.com/
+133,NRG Energy,https://www.nrg.com/
+134,Nvidia,https://www.nvidia.com/
+135,Occidental Petroleum,https://www.oxy.com/
+136,Salesforce,https://www.salesforce.com/
+137,Dollar Tree,https://www.dollartree.com/
+138,KKR,https://www.kkr.com/
+139,Kraft Heinz,https://www.kraftheinzcompany.com/
+140,Amgen,https://www.amgen.com/
+141,AutoNation,https://www.autonation.com/
+142,Penske Automotive Group,https://www.penskeautomotive.com/
+143,PayPal Holdings,https://www.paypal.com/
+144,Macy's,https://www.macys.com/
+145,Duke Energy,https://www.duke-energy.com/
+146,United Airlines Holdings,https://ir.united.com/
+147,Visa,https://www.visa.com/
+148,Rite Aid,https://www.riteaid.com/
+149,Cummins,https://www.cummins.com/
+150,U.S. Bancorp,https://www.usbank.com/
+151,Paccar,https://www.paccar.com/
+152,McDonald's,https://www.mcdonalds.com/
+153,Southern,https://www.southernrailway.com/
+154,C.H. Robinson Worldwide,https://www.chrobinson.com/
+155,Truist Financial,https://www.truist.com/
+156,Applied Materials,https://www.appliedmaterials.com/
+157,Freeport-McMoRan,https://www.fcx.com/
+158,Lithia Motors,https://www.lithia.com/
+159,Blackstone,https://www.blackstone.com/
+160,Hartford Financial Services Group,https://www.thehartford.com/
+161,Aflac,https://www.aflac.com/
+162,Whirlpool,https://www.whirlpoolindia.com/
+163,Union Pacific,https://www.up.com/
+164,International Paper,https://www.internationalpaper.com/
+165,AltriaGroup,https://www.altria.com/
+166,CDW,https://www.cdw.com/
+167,ManpowerGroup,https://www.manpowergroup.com/
+168,PG&E,https://www.pgecorp.com/
+169,Carrier Global,https://www.corporate.carrier.com/
+170,Baker Hughes,https://www.bakerhughes.com/
+171,Cleveland-Cliffs,https://www.clevelandcliffs.com/
+172,United States Steel,https://www.ussteel.com/
+173,Becton Dickinson,https://www.bd.com/
+174,CarMax,https://www.carmax.com/
+175,Sherwin-Williams,https://www.sherwin-williams.com/
+176,Builders FirstSource,https://www.bldr.com/
+177,Marsh & McLennan,https://www.marsh.com/
+178,PNC Financial Services,https://www.pnc.com/en/personal-banking.html
+179,Lumen Technologies,https://www.lumen.com/
+180,Avnet,https://www.avnet.com/
+181,Tenet Healthcare,https://www.tenethealth.com/
+182,Kimberly-Clark,https://www.kimberly-clark.com/
+183,Kohl's,https://www.kohls.com/
+184,BlackRock,https://www.blackrock.com/
+185,Jones Lang LaSalle,https://www.us.jll.com/
+186,Lear,https://www.lear.com/
+187,Lincoln National,https://www.lincolnfinancial.com/
+188,Charles Schwab,https://www.schwab.com/
+189,Ross Stores,https://www.rossstores.com/
+190,Mastercard,https://www.mastercard.us/
+191,Genuine Parts,https://www.genpt.com/
+192,WestRock,https://www.westrock.com/
+193,EOG Resources,https://www.eogresources.com/
+194,goanizant Technology,https://www.cognizant.com/
+195,Moderna,https://www.modernatx.com/
+196,Steel Dynamics,https://stld.steeldynamics.com/
+197,HF Sinclair,https://www.hfsinclair.com/
+198,Texas Instruments,https://www.ti.com/
+199,Emerson Electric,https://www.emerson.com/
+200,WESCO International,https://www.wesco.com/
+201,General Mills,https://www.generalmills.com/
+202,Tenneco,https://www.tenneco.com/
+203,Waste Management,https://gwcnweb.org/
+204,Viatris,https://www.viatris.com/
+205,DISH Network,https://www.dish.com/
+206,L3Harris Technologies,https://www.l3harris.com/
+207,DXC Technology,https://dxc.com/
+208,Block,https://www.block.xyz/
+209,Goodyear Tire & Rubber,https://www.goodyear.com/
+210,Uber Technologies,https://www.uber.com/
+211,Colgate-Palmolive,https://www.colgatepalmolive.com/
+212,Stanley Black & Decker,https://www.stanleyblackanddecker.com/
+213,DuPont,https://www.dupont.com/
+214,Stryker,https://www.stryker.com/
+215,NextEra Energy,https://www.nexteraenergy.com/
+216,Targa Resources,https://www.targaresources.com/
+217,Western Digital,https://www.westerndigital.com/
+218,PPG Industries,https://www.ppg.com/
+219,American Electric Power,https://www.aep.com/
+220,Gap,https://www.gap.com/
+221,BJ's Wholesale Club,https://www.bjs.com/
+222,Reinsurance Group of,https://www.rgare.com/
+223,Kinder Morgan,https://www.kindermorgan.com/
+224,Oneok,https://www.oneok.com/
+225,Expeditors Intl. of Washington,https://www.expeditors.com/
+226,Advanced Micro Devices,https://www.amd.com/
+227,Fiserv,https://www.fiserv.com/
+228,Estée Lauder,https://www.elcompanies.com/
+229,Bank of New York Mellon,https://www.bnymellon.com/
+230,Laboratory Corp. of America,https://www.labcorp.com/
+231,Regeneron Pharmaceuticals,https://www.regeneron.com/
+232,Land O'Lakes,https://www.landolakesinc.com/
+233,Cheniere Energy,https://www.cheniere.com/
+234,Southwest Airlines,https://www.southwest.com/
+235,Adobe,https://www.adobe.com/
+236,Synchrony Financial,https://www.synchrony.com/
+237,Corteva,https://www.corteva.com/
+238,Fidelity National Financial,https://fnf.com/
+239,DTEEnergy,https://www.newlook.dteenergy.com/
+240,Murphy USA,https://www.murphyusa.com/
+241,Halliburton,https://www.halliburton.com/
+242,Automatic Data Processing,https://www.adp.com/
+243,Edison International,https://www.edison.com/
+244,BorgWarner,https://www.borgwarner.com/
+245,Nordstrom,https://www.nordstrom.com/
+246,Loews,https://loews.com/
+247,Guardian Life Ins. Co. of America,https://www.guardianlife.com/
+248,Pioneer Natural Resources,https://www.pxd.com/
+249,AutoZone,https://www.autozone.com/
+250,Lam Research,https://www.lamresearch.com/
+251,American Family Insurance Group,https://www.amfam.com/
+252,Illinois Tool Works,https://www.itw.com/
+253,Parker-Hannifin,https://www.parker.com/
+254,Otis Worldwide,https://www.otis.com/
+255,Omnicom Group,https://www.omnicomgroup.com/
+256,Principal Financial,https://www.principal.com/
+257,Dominion Energy,https://www.dominionenergy.com/
+258,Kellogg,https://www.kelloggs.com/
+259,Fluor,https://www.fluor.com/
+260,AECOM,https://aecom.com/
+261,Reliance Steel & Aluminum,https://www.rsac.com/
+262,Jacobs Engineering Group,https://www.jacobs.com/
+263,Corning,https://www.corning.com/
+264,Farmers Insurance Exchange,https://www.farmers.com/
+265,Qurate Retail,https://www.qurateretailgroup.com/
+266,Pacific Life,https://www.pacificlife.com/
+267,PulteGroup,https://www.pultegroupinc.com/
+268,"Fidelity National Information
+Services",https://www.fisglobal.com/
+269,1QVIA Holdings,https://www.iqvia.com/
+270,Marriott International,https://www.marriott.com/
+271,Berry Global Group,https://www.berryglobal.com/
+272,Ball,https://www.ball.com/
+273,Group 1 Automotive,https://www.group1auto.com/
+274,Leidos Holdings,https://www.leidos.com/
+275,Wayfair,https://www.wayfair.com/
+276,Consolidated Edison,https://www.coned.com/
+277,Ameriprise Financial,https://www.ameriprise.com/
+278,Xcel Energy,https://my.xcelenergy.com/
+279,O'Reilly Automotive,https://www.oreillyauto.com/
+280,Global Partners,https://www.globalp.com/
+281,Discover Financial Services,https://www.discover.com/
+282,Rocket Companies,https://www.rocketcompanies.com/
+283,LKQ,https://www.lkqcorp.com/
+284,W.W. Grainger,https://www.grainger.com/
+285,Quanta Services,https://www.quantaservices.com/
+286,CrownHoldings,https://www.crowncork.com/
+287,Fox,https://www.foxnews.com/
+288,Sempra,https://www.sempra.com/
+289,Markel,https://www.markel.com/
+290,Carvana,https://www.carvana.com/
+291,XPO Logistics,https://www.xpo.com/
+292,Baxter International,https://www.baxter.com/
+293,Ecolab,https://www.ecolab.com/
+294,Tractor Supply,https://www.tractorsupply.com/
+295,The Andersons,https://www.andersonsinc.com/
+296,Keurig Dr Pepper,https://www.keurigdrpepper.com/
+297,Universal Health Services,https://uhs.com/
+298,CSX,https://www.csx.com/
+299,Henry Schein,https://www.henryschein.com/
+300,Sonic Automotive,https://www.sonicautomotive.com/
+301,eBay,https://www.ebay.com/
+302,Textron,https://www.textron.com/
+303,Jones Financial (Edward Jones),https://www.edwardjones.com/
+304,Community Health Systems,https://www.chs.net/
+305,Mosaic,https://www.mosaicco.com/
+306,Thor Industries,https://www.thorindustries.com/
+307,Dick's Sporting Goods,https://www.dickssportinggoods.com/
+308,Newmont,https://newmont.com/
+309,Devon Energy,https://www.devonenergy.com/
+310,Warner Bros. Discovery,https://wbd.com/
+311,J.B. Hunt Transport Services,https://www.jbhunt.com/
+312,Alcoa,https://www.alcoa.com/
+313,Peter Kiewit Sons’,https://www.kiewit.com/
+314,Aramark,https://www.aramark.com/
+315,Vistra,https://www.vistra.com/
+316,State Street,https://www.statestreet.com/
+317,Unum Group,https://www.unum.com/
+318,Alleghany,https://www.alleghany.com/
+319,Boston Scientific,https://www.bostonscientific.com/
+320,Westlake,https://www.westlake.com/
+321,Entergy,https://www.entergy.com/
+322,International Flavors & Fragrances,https://www.iff.com/
+323,DaVita,https://www.davita.com/
+324,Mutual of Omaha Insurance,https://www.mutualofomaha.com/
+325,Assurant,https://www.libertymedia.com/
+326,Liberty Media,https://www.libertymedia.com/
+327,Hormel Foods,https://www.hormelfoods.com/
+328,Icahn Enterprises,https://www.ielp.com/
+329,Republic Services,https://www.republicservices.com/
+330,Mohawk Industries,https://mohawkind.com/
+331,Conagra Brands,https://www.conagrabrands.com/
+332,Norfolk Southern,http://www.nscorp.com/
+333,AES,https://www.aes.com/
+334,AGCO,https://www.agcocorp.com/
+335,Caesars Entertainment,https://www.caesars.com/
+336,Equitable Holdings,https://equitableholdings.com/
+337,Advance Auto Parts,https://shop.advanceautoparts.com/
+338,Biogen,https://www.biogen.com/
+339,Auto-Owners Insurance,http://www.auto-owners.com/
+340,Booking Holdings,https://www.bookingholdings.com/
+341,Amphenol,https://amphenol.com/
+342,Quest Diagnostics,https://www.questdiagnostics.com/
+343,FirstEnergy,https://firstenergycorp.com//
+344,DCP Midstream,https://www.dcpmidstream.com/
+345,Ally Financial,https://firstenergycorp.com/
+346,Delek US Holdings,https://www.delekus.com/
+347,Williams,https://www.williamsf1.com/
+348,Newell Brands,https://www.newellbrands.com/
+349,Eastman Chemical,https://www.eastman.com/
+350,Air Products & Chemicals,https://www.airproducts.com/
+351,Thrivent Financial for,https://www.thrivent.com/
+352,Molson Coors Beverage,https://www.molsoncoors.com/
+353,Interpublic Group,https://www.interpublic.com/
+354,Weyerhaeuser,https://www.weyerhaeuser.com/
+355,Altice USA,https://www.alticeusa.com/
+356,Raymond James Financial,https://www.raymondjames.com/
+357,EMCOR Group,https://www.emcorgroup.com/
+358,Eversource Energy,https://www.eversource.com/
+359,Yum China Holdings,https://ir.yumchina.com/
+360,Asbury Automotive Group,https://www.asburyauto.com/
+361,Owens & Minor,https://www.owens.edu/
+362,Public Service Enterprise Group,https://landing.pseg.com/
+363,United Rentals,https://www.unitedrentals.com/
+364,MGM Resorts International,https://www.mgmresorts.com/
+365,Ryder System,https://www.ryder.com/
+366,Intuit,https://www.intuit.com/
+367,Cincinnati Financial,https://www.cinfin.com/
+368,Erie Insurance Group,https://www.erieinsurance.com/
+369,Univar Solutions,https://www.univarsolutions.com/
+370,Huntington Ingalls Industries,https://huntingtoningalls.com/
+371,W.R. Berkley,https://www.berkley.com/
+372,Western and Southen Financial Group,https://www.westernsouthern.com/
+373,Insight Enterprises,https://www.insight.com/
+374,News Corp.,https://newscorp.com/
+375,American Tower,https://www.americantower.com/
+376,Old Republic International,https://www.oldrepublic.com/
+377,Burlington Stores,https://www.burlington.com/
+378,Avis Budget Group,https://avisbudgetgroup.com/
+379,ODP,https://www.officedepot.com/
+380,VF,vfc.com
+381,Bed Bath & Beyond,https://www.bedbathandbeyond.com/
+382,Seaboard,https://www.seaboardcorp.com/
+383,First American Financial,https://www.firstam.com/
+384,Intercontinental Exchange,https://www.theice.com/
+385,PVH,https://www.pvh.com/
+386,Apollo Global Management,https://www.apollo.com/
+387,Jefferies Financial Group,https://www.jefferies.com/
+388,Hershey,https://www.thehersheycompany.com/
+389,NVR,https://www.nvrinc.com/
+390,Foot Locker,https://www.footlocker.com/
+391,Dana,https://www.dana.com/
+392,SpartanNash,https://www.spartannash.com/
+393,Olin,https://olin.com/
+394,Chewy,https://www.chewy.com/
+395,Jackson Financial,https://www.jackson.com/
+396,Activision Blizzard,https://www.activisionblizzard.com/
+397,Toll Brothers,https://www.tollbrothers.com/
+398,Carlyle Group,https://www.carlyle.com/
+399,Graybar Electric,https://www.graybar.com/
+400,Ovintiv,https://www.ovintiv.com/
+401,UFP Industries,https://www.ufpi.com/
+402,Ulta Beauty,https://www.ulta.com/
+403,Constellation Brands,https://www.cbrands.com/
+404,Expedia Group,https://www.expediagroup.com/
+405,CommScope Holding,https://www.commscope.com/
+406,Celanese,https://www.celanese.com/
+407,Global Payments,https://www.globalpayments.com/
+408,Owens Corning,https://www.owenscorning.com/
+409,Campbell Soup,https://www.campbells.com/
+410,Huntsman,https://www.huntsman.com/
+411,Franklin Resources,https://www.franklinresources.com/
+412,Avery Dennison,https://www.averydennison.com/
+413,Masco,https://masco.com/
+414,CenterPoint Energy,https://www.centerpointenergy.com/
+415,Fifth Third Bancorp,https://www.53.com/
+416,WEC Energy Group,https://www.wecenergygroup.com/
+417,S&P Global,https://www.spglobal.com/
+418,FMGlobal,https://www.fmglobal.com/
+419,Polaris,https://www.polaris.com/
+420,Williams-Sonoma,https://www.williams-sonoma.com/
+421,Autoliv,https://www.autoliv.com/
+422,Arthur J. Gallagher,https://www.ajg.com/
+423,Motorola Solutions,https://www.motorolasolutions.com/
+424,Tillow Group,https://www.zillowgroup.com/
+425,Opendoor Technologies,https://www.opendoor.com/
+426,J.M. Smucker,https://www.jmsmucker.com/
+427,Anywhere Real Estate,https://www.anywhere.re/
+428,Oshkosh,https://www.oshkosh.com/
+429,MasTec,https://www.mastec.com/
+430,GXO Logistics,https://gxo.com/
+431,APA,https://www.apa.org/
+432,Boise Cascade,https://www.bc.com/
+433,Dover,https://www.dovercorporation.com/
+434,Genworth Financial,https://www.genworth.com/
+435,Bath & Body Works,https://www.bathandbodyworks.com/
+436,Booz Allen Hamilton Holding,https://www.coinbase.com/
+437,Coinbase Global,https://www.coinbase.com/
+438,Zimmer Biomet Holdings,https://www.zimmerbiomet.com/
+439,Westinghouse Air Break Technologies,https://www.wabteccorp.com/
+440,Zoetis,https://www.zoetis.com/
+441,Packaging Corp. of America,https://www.packagingcorp.com/
+442,LPL Financial Holdings,https://www.lpl.com/
+443,T. Rowe Price,https://www.troweprice.com/
+444,Fortune Brands Home & Security,https://www.troweprice.com/
+445,Casey's General Stores,https://www.caseys.com/
+446,A-Mark Precious Metals,amark.com
+447,Hess,https://www.hess.com/
+448,Vertex Pharmaceuticals,https://www.vrtx.com/
+449,KeyCorp,http://www.keycorpltd.com/
+450,Chipotle Mexican Grill,https://www.chipotle.com/
+451,CMS Energy,https://www.cmsenergy.com/
+452,Arconic,https://www.arconic.com/
+453,Taylor Morrison Home,https://www.taylormorrison.com/
+454,American Financial Group,https://www.afginc.com/
+455,UGI,https://www.ugicorp.com/
+456,Science Applications International,https://www.saic.com/
+457,Avantor,https://www.avantorsciences.com/
+458,Hanesbrands,https://www.hanes.com/
+459,Clorox,https://www.clorox.com/
+460,KBR,https://www.kbr.com/
+461,TravelCenters of America,https://www.ta-petro.com/
+462,Hertz Global Holdings,https://ir.hertz.com/
+463,Analog Devices,https://www.analog.com/
+464,Securian Financial Group,https://www.securian.com/
+465,Darden Restaurants,https://www.darden.com/
+466,Graphic Packaging Holding,https://www.graphicpkg.com/
+466,NCR,https://www.ncr.com/
+468,Brighthouse Financial,https://www.brighthousefinancial.com/
+469,PPL,https://www.pplindia.org/
+470,Cintas,https://www.cintas.com/
+471,Xerox Holdings,https://www.xerox.com/
+472,Rockwell Automation,https://www.rockwellautomation.com/
+473,Citizens Financial Group,https://www.citizensbank.com/
+474,KLA,https://www.kla.com/
+475,Camping World Holdings,https://investor.campingworld.com/
+476,Ingredion,https://www.ingredion.com/
+477,Veritiv,https://www.veritivcorp.com/
+478,Beacon Roofing Supply,https://www.becn.com/
+479,Diamondback Energy,https://ir.diamondbackenergy.com/
+480,Victoria's Secret,https://www.victoriassecret.com/
+481,Academy Sports and Outdoors,https://www.academy.com/
+482,Sanmina,https://www.sanmina.com/
+483,ON Semiconductor,https://www.onsemi.com/
+484,Commercial Metals,https://www.cmc.com/
+485,EnLink Midstream,https://www.enlink.com/
+486,Southwestern Energy,https://www.swn.com/
+487,Equinix,https://www.equinix.se/
+488,Dillard's,https://www.dillards.com/
+489,Regions Financial,https://ir.regions.com/
+490,Yum Brands,https://www.yum.com/
+491,Landstar System,https://www.landstar.com/
+492,CF Industries Holdings,https://www.cfindustries.com/
+493,Northern Trust,https://www.northerntrust.com/
+494,Robert Half International,https://www.roberthalf.com/
+495,Compass,https://www.compass-group.com/
+496,Hasbro,https://shop.hasbro.com/
+497,Roper Technologies,https://www.ropertech.com/
+498,ARKO,https://www.arkocorp.com/
+499,Frontier Communications,https://frontier.com/
+500,Ameren,https://www.ameren.com/
