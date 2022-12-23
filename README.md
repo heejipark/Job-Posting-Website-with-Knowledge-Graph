@@ -1,5 +1,6 @@
 # Job Posting Website with Knowledge Graph
 
+
 ### Folder Detail
 |Folder       |Description|
 |-------------|-----------|
@@ -17,7 +18,7 @@
 |[glassdoor URL Crawler](Data_Collection/[Code]Company_information/glassdoor_url_from_google_search.ipynb)| In Glassdoor, the form of the URL containing each company's information is inconsistent and varied, so extract the relevant links by googling the <b>[Company name + Glassdoor + Overview]</b> keyword.|
 |[Company information Crawler_from_Glassdoor](Data_Collection/[Code]Company_information/company_information_from_glassdoor.ipynb)|Extract the information of each company from Glassdoor.|
 |[Json_To_CSV](Data_Collection/[Code]Company_information/json_to_csv.ipynb)|Change the data format from .json to .csv|
-|[KG Construction](KG_Construction/[Code]Company_information/Entity_Resolution_Construct_KG_RDF.ipynb)| Do Entity Resolution and KG Constuction. |
+|[KG Construction](KG_Construction/Entity_Resolution_Construct_KG_RDF.ipynb)| Do Entity Resolution and KG Constuction. |
 
 ### Datasets
 |Datasets       |Description|
